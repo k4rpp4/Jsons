@@ -23,6 +23,17 @@
   ],
   [
     "Atlantic_3",
+    "Florida_Panthers",
+    "1",
+    "1",
+    "0",
+    "0",
+    "2",
+    "3",
+    "1"
+  ],
+  [
+    "Atlantic_4",
     "Montreal_Canadiens",
     "1",
     "1",
@@ -33,7 +44,18 @@
     "3"
   ],
   [
-    "Atlantic_4",
+    "Atlantic_5",
+    "Toronto_Maple_Leafs",
+    "2",
+    "1",
+    "1",
+    "0",
+    "2",
+    "6",
+    "6"
+  ],
+  [
+    "Atlantic_6",
     "Detroit_Red_Wings",
     "0",
     "0",
@@ -42,28 +64,6 @@
     "0",
     "0",
     "0"
-  ],
-  [
-    "Atlantic_5",
-    "Florida_Panthers",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0"
-  ],
-  [
-    "Atlantic_6",
-    "Toronto_Maple_Leafs",
-    "1",
-    "0",
-    "1",
-    "0",
-    "0",
-    "3",
-    "4"
   ],
   [
     "Atlantic_7",
@@ -89,6 +89,17 @@
   ],
   [
     "Metropolitan_1",
+    "New_York_Rangers",
+    "2",
+    "2",
+    "0",
+    "0",
+    "4",
+    "10",
+    "4"
+  ],
+  [
+    "Metropolitan_2",
     "Pittsburgh_Penguins",
     "1",
     "1",
@@ -99,7 +110,7 @@
     "2"
   ],
   [
-    "Metropolitan_2",
+    "Metropolitan_3",
     "Philadelphia_Flyers",
     "1",
     "1",
@@ -110,7 +121,7 @@
     "2"
   ],
   [
-    "Metropolitan_3",
+    "Metropolitan_4",
     "Carolina_Hurricanes",
     "1",
     "1",
@@ -121,26 +132,15 @@
     "1"
   ],
   [
-    "Metropolitan_4",
-    "New_York_Rangers",
-    "1",
-    "1",
-    "0",
-    "0",
-    "2",
-    "3",
-    "1"
-  ],
-  [
     "Metropolitan_5",
     "New_York_Islanders",
+    "1",
+    "0",
+    "1",
     "0",
     "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0"
+    "1",
+    "3"
   ],
   [
     "Metropolitan_6",
@@ -167,13 +167,13 @@
   [
     "Metropolitan_8",
     "Washington_Capitals",
-    "1",
-    "0",
-    "1",
-    "0",
+    "2",
     "0",
     "2",
-    "5"
+    "0",
+    "0",
+    "4",
+    "8"
   ],
   [
     "Central_1",
@@ -199,28 +199,6 @@
   ],
   [
     "Central_3",
-    "St._Louis_Blues",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0"
-  ],
-  [
-    "Central_4",
-    "Minnesota_Wild",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0"
-  ],
-  [
-    "Central_5",
     "Dallas_Stars",
     "0",
     "0",
@@ -231,7 +209,18 @@
     "0"
   ],
   [
-    "Central_6",
+    "Central_4",
+    "St._Louis_Blues",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  [
+    "Central_5",
     "Winnipeg_Jets",
     "0",
     "0",
@@ -242,7 +231,7 @@
     "0"
   ],
   [
-    "Central_7",
+    "Central_6",
     "Chicago_Blackhawks",
     "1",
     "0",
@@ -251,6 +240,17 @@
     "0",
     "2",
     "5"
+  ],
+  [
+    "Central_7",
+    "Minnesota_Wild",
+    "1",
+    "0",
+    "1",
+    "0",
+    "0",
+    "3",
+    "7"
   ],
   [
     "Central_8",
