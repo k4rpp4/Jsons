@@ -178,16 +178,27 @@
   [
     "Central_1",
     "Nashville_Predators",
+    "3",
     "2",
-    "2",
-    "0",
+    "1",
     "0",
     "4",
-    "7",
-    "3"
+    "8",
+    "7"
   ],
   [
     "Central_2",
+    "Dallas_Stars",
+    "1",
+    "1",
+    "0",
+    "0",
+    "2",
+    "4",
+    "1"
+  ],
+  [
+    "Central_3",
     "Colorado_Avalanche",
     "1",
     "1",
@@ -198,19 +209,8 @@
     "2"
   ],
   [
-    "Central_3",
-    "Dallas_Stars",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0",
-    "0"
-  ],
-  [
     "Central_4",
-    "St._Louis_Blues",
+    "Winnipeg_Jets",
     "0",
     "0",
     "0",
@@ -221,7 +221,7 @@
   ],
   [
     "Central_5",
-    "Winnipeg_Jets",
+    "St._Louis_Blues",
     "0",
     "0",
     "0",
