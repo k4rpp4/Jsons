@@ -1,6 +1,17 @@
 [
   [
     "Atlantic_1",
+    "Florida_Panthers",
+    "2",
+    "2",
+    "0",
+    "0",
+    "4",
+    "7",
+    "4"
+  ],
+  [
+    "Atlantic_2",
     "Boston_Bruins",
     "1",
     "1",
@@ -11,7 +22,7 @@
     "2"
   ],
   [
-    "Atlantic_2",
+    "Atlantic_3",
     "Detroit_Red_Wings",
     "1",
     "1",
@@ -22,26 +33,15 @@
     "0"
   ],
   [
-    "Atlantic_3",
-    "Buffalo_Sabres",
-    "1",
-    "1",
-    "0",
-    "0",
-    "2",
-    "4",
-    "1"
-  ],
-  [
     "Atlantic_4",
-    "Florida_Panthers",
+    "Buffalo_Sabres",
+    "2",
     "1",
     "1",
-    "0",
     "0",
     "2",
-    "3",
-    "1"
+    "7",
+    "5"
   ],
   [
     "Atlantic_5",
