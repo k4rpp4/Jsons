@@ -89,6 +89,17 @@
   ],
   [
     "Metropolitan_1",
+    "Carolina_Hurricanes",
+    "2",
+    "2",
+    "0",
+    "0",
+    "4",
+    "6",
+    "2"
+  ],
+  [
+    "Metropolitan_2",
     "New_York_Rangers",
     "3",
     "2",
@@ -99,7 +110,7 @@
     "8"
   ],
   [
-    "Metropolitan_2",
+    "Metropolitan_3",
     "Pittsburgh_Penguins",
     "1",
     "1",
@@ -110,7 +121,7 @@
     "2"
   ],
   [
-    "Metropolitan_3",
+    "Metropolitan_4",
     "Philadelphia_Flyers",
     "1",
     "1",
@@ -119,17 +130,6 @@
     "2",
     "5",
     "2"
-  ],
-  [
-    "Metropolitan_4",
-    "Carolina_Hurricanes",
-    "1",
-    "1",
-    "0",
-    "0",
-    "2",
-    "4",
-    "1"
   ],
   [
     "Metropolitan_5",
@@ -232,17 +232,6 @@
   ],
   [
     "Central_6",
-    "Minnesota_Wild",
-    "1",
-    "0",
-    "1",
-    "0",
-    "0",
-    "3",
-    "7"
-  ],
-  [
-    "Central_7",
     "Arizona_Coyotes",
     "1",
     "0",
@@ -251,6 +240,17 @@
     "0",
     "2",
     "6"
+  ],
+  [
+    "Central_7",
+    "Minnesota_Wild",
+    "1",
+    "0",
+    "1",
+    "0",
+    "0",
+    "3",
+    "7"
   ],
   [
     "Central_8",
@@ -287,7 +287,7 @@
   ],
   [
     "Pacific_3",
-    "Edmonton_Oilers",
+    "Calgary_Flames",
     "1",
     "1",
     "0",
@@ -298,7 +298,7 @@
   ],
   [
     "Pacific_4",
-    "Calgary_Flames",
+    "Edmonton_Oilers",
     "1",
     "1",
     "0",
@@ -343,12 +343,12 @@
   [
     "Pacific_8",
     "San_Jose_Sharks",
-    "2",
-    "0",
-    "2",
-    "0",
+    "3",
     "0",
     "3",
-    "7"
+    "0",
+    "0",
+    "4",
+    "9"
   ]
 ]
