@@ -3,8 +3,9 @@
     "Rasmus",
     "Andersson",
     "#4",
-    "Defense",
-    "Calgary_Flames"
+    "(D)",
+    "Calgary_Flames",
+    "2"
   ],
   [
     "2",
@@ -13,9 +14,9 @@
     "2"
   ],
   [
-    "82",
-    "41",
-    "41",
-    "82"
+    82,
+    41,
+    41,
+    82
   ]
 ]
