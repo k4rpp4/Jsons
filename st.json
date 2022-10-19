@@ -133,6 +133,17 @@
   ],
   [
     "Metropolitan_5",
+    "New_York_Islanders",
+    "3",
+    "2",
+    "1",
+    "0",
+    "4",
+    "13",
+    "6"
+  ],
+  [
+    "Metropolitan_6",
     "Washington_Capitals",
     "4",
     "2",
@@ -141,17 +152,6 @@
     "4",
     "13",
     "13"
-  ],
-  [
-    "Metropolitan_6",
-    "New_York_Islanders",
-    "2",
-    "1",
-    "1",
-    "0",
-    "2",
-    "8",
-    "4"
   ],
   [
     "Metropolitan_7",
@@ -343,12 +343,12 @@
   [
     "Pacific_8",
     "San_Jose_Sharks",
-    "4",
+    "5",
     "0",
-    "4",
+    "5",
     "0",
     "0",
-    "6",
-    "14"
+    "8",
+    "19"
   ]
 ]
