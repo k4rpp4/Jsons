@@ -12,6 +12,17 @@
   ],
   [
     "Atlantic_2",
+    "Toronto_Maple_Leafs",
+    "6",
+    "4",
+    "2",
+    "0",
+    "8",
+    "16",
+    "15"
+  ],
+  [
+    "Atlantic_3",
     "Florida_Panthers",
     "5",
     "3",
@@ -22,7 +33,7 @@
     "15"
   ],
   [
-    "Atlantic_3",
+    "Atlantic_4",
     "Buffalo_Sabres",
     "4",
     "3",
@@ -33,7 +44,7 @@
     "10"
   ],
   [
-    "Atlantic_4",
+    "Atlantic_5",
     "Detroit_Red_Wings",
     "4",
     "2",
@@ -44,7 +55,7 @@
     "11"
   ],
   [
-    "Atlantic_5",
+    "Atlantic_6",
     "Ottawa_Senators",
     "5",
     "3",
@@ -55,48 +66,37 @@
     "16"
   ],
   [
-    "Atlantic_6",
-    "Montreal_Canadiens",
-    "5",
-    "3",
-    "2",
-    "0",
-    "6",
-    "14",
-    "13"
-  ],
-  [
     "Atlantic_7",
-    "Toronto_Maple_Leafs",
-    "5",
+    "Tampa_Bay_Lightning",
+    "6",
     "3",
-    "2",
+    "3",
     "0",
     "6",
-    "14",
-    "14"
+    "18",
+    "19"
   ],
   [
     "Atlantic_8",
-    "Tampa_Bay_Lightning",
-    "5",
-    "2",
+    "Montreal_Canadiens",
+    "6",
+    "3",
     "3",
     "0",
-    "4",
-    "13",
-    "16"
+    "6",
+    "16",
+    "18"
   ],
   [
     "Metropolitan_1",
     "Pittsburgh_Penguins",
+    "5",
     "4",
-    "3",
     "0",
     "1",
-    "7",
-    "20",
-    "8"
+    "9",
+    "26",
+    "11"
   ],
   [
     "Metropolitan_2",
@@ -144,47 +144,47 @@
   ],
   [
     "Metropolitan_6",
-    "New_York_Islanders",
-    "4",
-    "2",
-    "2",
+    "Washington_Capitals",
+    "6",
+    "3",
+    "3",
     "0",
-    "4",
-    "14",
-    "10"
+    "6",
+    "19",
+    "21"
   ],
   [
     "Metropolitan_7",
-    "Washington_Capitals",
+    "New_York_Islanders",
     "5",
     "2",
     "3",
     "0",
     "4",
-    "15",
-    "18"
+    "17",
+    "15"
   ],
   [
     "Metropolitan_8",
     "Columbus_Blue_Jackets",
-    "5",
+    "6",
     "2",
-    "3",
+    "4",
     "0",
     "4",
-    "14",
-    "20"
+    "17",
+    "26"
   ],
   [
     "Central_1",
     "Dallas_Stars",
+    "5",
     "4",
-    "3",
     "0",
     "1",
-    "7",
-    "15",
-    "6"
+    "9",
+    "20",
+    "8"
   ],
   [
     "Central_2",
@@ -233,13 +233,13 @@
   [
     "Central_6",
     "Winnipeg_Jets",
-    "4",
+    "5",
     "2",
-    "2",
+    "3",
     "0",
     "4",
-    "11",
-    "13"
+    "12",
+    "15"
   ],
   [
     "Central_7",
@@ -299,13 +299,13 @@
   [
     "Pacific_4",
     "Los_Angeles_Kings",
-    "6",
+    "7",
     "3",
-    "3",
+    "4",
     "0",
     "6",
-    "21",
-    "27"
+    "24",
+    "31"
   ],
   [
     "Pacific_5",
