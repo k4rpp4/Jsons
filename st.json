@@ -100,6 +100,17 @@
   ],
   [
     "Metropolitan_2",
+    "Carolina_Hurricanes",
+    "6",
+    "4",
+    "1",
+    "1",
+    "9",
+    "20",
+    "14"
+  ],
+  [
+    "Metropolitan_3",
     "Philadelphia_Flyers",
     "6",
     "4",
@@ -110,7 +121,7 @@
     "14"
   ],
   [
-    "Metropolitan_3",
+    "Metropolitan_4",
     "Washington_Capitals",
     "7",
     "4",
@@ -119,17 +130,6 @@
     "8",
     "25",
     "24"
-  ],
-  [
-    "Metropolitan_4",
-    "Carolina_Hurricanes",
-    "5",
-    "3",
-    "1",
-    "1",
-    "7",
-    "17",
-    "12"
   ],
   [
     "Metropolitan_5",
@@ -343,12 +343,12 @@
   [
     "Pacific_8",
     "Vancouver_Canucks",
-    "6",
+    "7",
     "0",
-    "4",
+    "5",
     "2",
     "2",
-    "16",
-    "27"
+    "18",
+    "30"
   ]
 ]
