@@ -2,9 +2,10 @@
   [
     "Matthew",
     "Tkachuk",
-    "",
-    null,
-    "MATTHEW TKACHUK (R) FLORIDA PANTHERS"
+    "#19",
+    "(R)",
+    "Florida_Panthers",
+    "9"
   ],
   [
     "9",
@@ -13,10 +14,10 @@
     "13"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    45.55555555555556,
+    72.88888888888889,
+    118.44444444444444
   ],
   [
     [
