@@ -2,10 +2,9 @@
   [
     "Matt",
     "Duchene",
-    "#95",
-    "(R)",
-    "Nashville_Predators",
-    "10"
+    "",
+    null,
+    "MATT DUCHENE (R) NASHVILLE PREDATORS"
   ],
   [
     "10",
@@ -14,12 +13,20 @@
     "9"
   ],
   [
-    82,
-    16.4,
-    57.4,
-    73.8
+    null,
+    null,
+    null,
+    null
   ],
   [
+    [
+      "1.11",
+      "@EDM",
+      "L7-4",
+      "0",
+      "2",
+      "8:40"
+    ],
     [
       "29.10",
       "vsWSH",
