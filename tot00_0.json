@@ -2,9 +2,10 @@
   [
     "J.T.",
     "Miller",
-    "",
-    null,
-    "J.T. MILLER (L) VANCOUVER CANUCKS"
+    "#9",
+    "(L)",
+    "Vancouver_Canucks",
+    "12"
   ],
   [
     "12",
@@ -13,10 +14,10 @@
     "12"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    47.833333333333336,
+    34.16666666666667,
+    82
   ],
   [
     [

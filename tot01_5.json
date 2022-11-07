@@ -2,9 +2,10 @@
   [
     "Noah",
     "Dobson",
-    "",
-    null,
-    "NOAH DOBSON (D) NEW YORK"
+    "#8",
+    "(D)",
+    "New_York_Islanders",
+    "12"
   ],
   [
     "12",
@@ -13,10 +14,10 @@
     "8"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    20.5,
+    34.16666666666667,
+    54.666666666666664
   ],
   [
     [
