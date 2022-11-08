@@ -2,10 +2,9 @@
   [
     "Torey",
     "Krug",
-    "#47",
-    "(D)",
-    "St._Louis_Blues",
-    "9"
+    "",
+    null,
+    "TOREY KRUG (D) ST. LOUIS"
   ],
   [
     "10",
@@ -14,10 +13,10 @@
     "5"
   ],
   [
-    83,
-    8.3,
-    33.2,
-    41.5
+    null,
+    null,
+    null,
+    null
   ],
   [
     [
