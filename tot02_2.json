@@ -2,10 +2,9 @@
   [
     "Jack",
     "Eichel",
-    "#9",
-    "(C)",
-    "Vegas_Golden_Knights",
-    "13"
+    "",
+    null,
+    "JACK EICHEL (C) VEGAS GOLDEN"
   ],
   [
     "13",
@@ -14,10 +13,10 @@
     "14"
   ],
   [
-    82,
-    31.53846153846154,
-    56.76923076923077,
-    88.3076923076923
+    null,
+    null,
+    null,
+    null
   ],
   [
     [
