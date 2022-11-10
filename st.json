@@ -23,6 +23,17 @@
   ],
   [
     "Atlantic_3",
+    "Florida_Panthers",
+    "14",
+    "8",
+    "5",
+    "1",
+    "17",
+    "46",
+    "42"
+  ],
+  [
+    "Atlantic_4",
     "Toronto_Maple_Leafs",
     "14",
     "7",
@@ -33,7 +44,7 @@
     "38"
   ],
   [
-    "Atlantic_4",
+    "Atlantic_5",
     "Tampa_Bay_Lightning",
     "13",
     "7",
@@ -42,17 +53,6 @@
     "15",
     "42",
     "41"
-  ],
-  [
-    "Atlantic_5",
-    "Florida_Panthers",
-    "13",
-    "7",
-    "5",
-    "1",
-    "15",
-    "43",
-    "42"
   ],
   [
     "Atlantic_6",
@@ -112,13 +112,13 @@
   [
     "Metropolitan_3",
     "Carolina_Hurricanes",
-    "12",
+    "13",
     "8",
-    "3",
+    "4",
     "1",
     "17",
     "39",
-    "34"
+    "37"
   ],
   [
     "Metropolitan_4",
