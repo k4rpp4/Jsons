@@ -2,9 +2,10 @@
   [
     "Filip",
     "Forsberg",
-    "",
-    null,
-    "FILIP FORSBERG (L) NASHVILLE PREDATORS"
+    "#9",
+    "(L)",
+    "Nashville_Predators",
+    "14"
   ],
   [
     "14",
@@ -13,10 +14,10 @@
     "14"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    29.285714285714285,
+    52.714285714285715,
+    82
   ],
   [
     [

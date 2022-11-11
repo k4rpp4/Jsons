@@ -2,9 +2,10 @@
   [
     "Mikko",
     "Rantanen",
-    "",
-    null,
-    "MIKKO RANTANEN (R) COLORADO AVALANCHE"
+    "#96",
+    "(R)",
+    "Colorado_Avalanche",
+    "12"
   ],
   [
     "12",
@@ -13,10 +14,10 @@
     "19"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    61.5,
+    68.33333333333334,
+    129.83333333333331
   ],
   [
     [
