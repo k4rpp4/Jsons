@@ -2,10 +2,9 @@
   [
     "Tyson",
     "Barrie",
-    "#22",
-    "(D)",
-    "Edmonton_Oilers",
-    "15"
+    "",
+    null,
+    "TYSON BARRIE (D) EDMONTON OILERS"
   ],
   [
     "15",
@@ -14,10 +13,10 @@
     "10"
   ],
   [
-    82,
-    5.466666666666667,
-    49.199999999999996,
-    54.666666666666664
+    null,
+    null,
+    null,
+    null
   ],
   [
     [

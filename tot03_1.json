@@ -2,9 +2,10 @@
   [
     "Aleksander",
     "Barkov",
-    "",
-    null,
-    "ALEKSANDER BARKOV (C) FLORIDA PANTHERS"
+    "#16",
+    "(C)",
+    "Florida_Panthers",
+    "14"
   ],
   [
     "14",
@@ -13,10 +14,10 @@
     "11"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    17.57142857142857,
+    46.857142857142854,
+    64.42857142857143
   ],
   [
     [
