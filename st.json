@@ -23,17 +23,6 @@
   ],
   [
     "Atlantic_3",
-    "Toronto_Maple_Leafs",
-    "14",
-    "7",
-    "4",
-    "3",
-    "17",
-    "40",
-    "38"
-  ],
-  [
-    "Atlantic_4",
     "Detroit_Red_Wings",
     "14",
     "7",
@@ -44,15 +33,26 @@
     "46"
   ],
   [
-    "Atlantic_5",
-    "Tampa_Bay_Lightning",
-    "13",
+    "Atlantic_4",
+    "Toronto_Maple_Leafs",
+    "15",
     "7",
     "5",
+    "3",
+    "17",
+    "42",
+    "42"
+  ],
+  [
+    "Atlantic_5",
+    "Tampa_Bay_Lightning",
+    "14",
+    "7",
+    "6",
     "1",
     "15",
-    "42",
-    "41"
+    "43",
+    "46"
   ],
   [
     "Atlantic_6",
@@ -145,24 +145,24 @@
   [
     "Metropolitan_6",
     "Washington_Capitals",
-    "15",
-    "6",
+    "16",
+    "7",
     "7",
     "2",
-    "14",
-    "41",
-    "46"
+    "16",
+    "46",
+    "47"
   ],
   [
     "Metropolitan_7",
     "Pittsburgh_Penguins",
-    "13",
-    "5",
+    "14",
+    "6",
     "6",
     "2",
-    "12",
-    "46",
-    "45"
+    "14",
+    "50",
+    "47"
   ],
   [
     "Metropolitan_8",
