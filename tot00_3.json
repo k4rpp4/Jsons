@@ -2,9 +2,10 @@
   [
     "Mats",
     "Zuccarello",
-    "",
-    null,
-    "MATS ZUCCARELLO (R) MINNESOTA WILD"
+    "#36",
+    "(R)",
+    "Minnesota_Wild",
+    "14"
   ],
   [
     "14",
@@ -13,10 +14,10 @@
     "14"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    35.14285714285714,
+    46.857142857142854,
+    82
   ],
   [
     [

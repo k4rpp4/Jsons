@@ -2,9 +2,10 @@
   [
     "Mitchell",
     "Marner",
-    "",
-    null,
-    "MITCHELL MARNER (R) TORONTO MAPLE"
+    "#16",
+    "(R)",
+    "Toronto_Maple_Leafs",
+    "16"
   ],
   [
     "16",
@@ -13,10 +14,10 @@
     "18"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    15.375,
+    76.875,
+    92.25
   ],
   [
     [
