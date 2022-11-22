@@ -2,10 +2,9 @@
   [
     "Sidney",
     "Crosby",
-    "#87",
-    "(C)",
-    "Pittsburgh_Penguins",
-    "19"
+    "",
+    null,
+    "SIDNEY CROSBY (C) PITTSBURGH PENGUINS"
   ],
   [
     "19",
@@ -14,10 +13,10 @@
     "27"
   ],
   [
-    82,
-    43.1578947368421,
-    73.36842105263159,
-    116.52631578947368
+    null,
+    null,
+    null,
+    null
   ],
   [
     [
