@@ -2,9 +2,10 @@
   [
     "Brayden",
     "Point",
-    "",
-    null,
-    "BRAYDEN POINT (C) TAMPA BAY"
+    "#21",
+    "(C)",
+    "Tampa_Bay_Lightning",
+    "19"
   ],
   [
     "19",
@@ -13,10 +14,10 @@
     "18"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    25.894736842105264,
+    51.78947368421053,
+    77.68421052631578
   ],
   [
     [
