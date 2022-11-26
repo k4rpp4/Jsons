@@ -2,10 +2,9 @@
   [
     "Rasmus",
     "Andersson",
-    "#4",
-    "(D)",
-    "Calgary_Flames",
-    "20"
+    "",
+    null,
+    "RASMUS ANDERSSON (D) CALGARY FLAMES"
   ],
   [
     "20",
@@ -14,10 +13,10 @@
     "14"
   ],
   [
-    82,
-    8.2,
-    49.199999999999996,
-    57.4
+    null,
+    null,
+    null,
+    null
   ],
   [
     [
