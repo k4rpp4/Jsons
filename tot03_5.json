@@ -2,10 +2,9 @@
   [
     "Evan",
     "Bouchard",
-    "#2",
-    "(D)",
-    "Edmonton_Oilers",
-    "20"
+    "",
+    null,
+    "EVAN BOUCHARD (D) EDMONTON OILERS"
   ],
   [
     "20",
@@ -14,10 +13,10 @@
     "6"
   ],
   [
-    82,
-    0,
-    24.599999999999998,
-    24.599999999999998
+    null,
+    null,
+    null,
+    null
   ],
   [
     [
