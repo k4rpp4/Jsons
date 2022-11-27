@@ -2,9 +2,10 @@
   [
     "John",
     "Tavares",
-    "",
-    null,
-    "JOHN TAVARES (C) TORONTO MAPLE"
+    "#91",
+    "(C)",
+    "Toronto_Maple_Leafs",
+    "23"
   ],
   [
     "23",
@@ -13,10 +14,10 @@
     "25"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    42.78260869565217,
+    46.347826086956516,
+    89.13043478260869
   ],
   [
     [
