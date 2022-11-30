@@ -2,9 +2,10 @@
   [
     "Kyle",
     "Connor",
-    "",
-    null,
-    "KYLE CONNOR (L) WINNIPEG JETS"
+    "#81",
+    "(L)",
+    "Winnipeg_Jets",
+    "21"
   ],
   [
     "21",
@@ -13,10 +14,10 @@
     "21"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    31.238095238095237,
+    50.761904761904766,
+    82
   ],
   [
     [
