@@ -2,9 +2,10 @@
   [
     "Mark",
     "Scheifele",
-    "",
-    null,
-    "MARK SCHEIFELE (C) WINNIPEG JETS"
+    "#55",
+    "(C)",
+    "Winnipeg_Jets",
+    "21"
   ],
   [
     "21",
@@ -13,10 +14,10 @@
     "18"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    46.857142857142854,
+    23.428571428571427,
+    70.28571428571428
   ],
   [
     [
