@@ -2,9 +2,10 @@
   [
     "Nazem",
     "Kadri",
-    "",
-    null,
-    "NAZEM KADRI (C) CALGARY FLAMES"
+    "#91",
+    "(C)",
+    "Calgary_Flames",
+    "22"
   ],
   [
     "22",
@@ -13,10 +14,10 @@
     "15"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    29.81818181818182,
+    26.09090909090909,
+    55.90909090909091
   ],
   [
     [

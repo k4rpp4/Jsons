@@ -2,9 +2,10 @@
   [
     "Devon",
     "Toews",
-    "",
-    null,
-    "DEVON TOEWS (D) COLORADO AVALANCHE"
+    "#7",
+    "(D)",
+    "Colorado_Avalanche",
+    "20"
   ],
   [
     "18",
@@ -13,10 +14,10 @@
     "12"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    80,
+    4.444444444444445,
+    48.88888888888889,
+    53.33333333333333
   ],
   [
     [
