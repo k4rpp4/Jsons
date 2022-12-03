@@ -2,10 +2,9 @@
   [
     "Patrick",
     "Kane",
-    "#88",
-    "(R)",
-    "Chicago_Blackhawks",
-    "22"
+    "",
+    null,
+    "PATRICK KANE (R) CHICAGO BLACKHAWKS"
   ],
   [
     "22",
@@ -14,10 +13,10 @@
     "17"
   ],
   [
-    82,
-    11.181818181818182,
-    52.18181818181818,
-    63.36363636363636
+    null,
+    null,
+    null,
+    null
   ],
   [
     [
