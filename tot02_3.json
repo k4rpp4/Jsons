@@ -2,9 +2,10 @@
   [
     "Matt",
     "Duchene",
-    "",
-    null,
-    "MATT DUCHENE (R) NASHVILLE PREDATORS"
+    "#95",
+    "(R)",
+    "Nashville_Predators",
+    "23"
   ],
   [
     "23",
@@ -13,10 +14,10 @@
     "21"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    21.391304347826086,
+    53.47826086956522,
+    74.86956521739131
   ],
   [
     [
