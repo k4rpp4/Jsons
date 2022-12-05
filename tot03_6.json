@@ -2,10 +2,9 @@
   [
     "Thomas",
     "Chabot",
-    "#72",
-    "(D)",
-    "Ottawa_Senators",
-    "24"
+    "",
+    null,
+    "THOMAS CHABOT (D) OTTAWA SENATORS"
   ],
   [
     "19",
@@ -14,10 +13,10 @@
     "12"
   ],
   [
-    77,
-    16.210526315789473,
-    32.421052631578945,
-    48.63157894736842
+    null,
+    null,
+    null,
+    null
   ],
   [
     [
