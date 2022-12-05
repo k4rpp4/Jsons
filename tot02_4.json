@@ -2,9 +2,10 @@
   [
     "Tony",
     "DeAngelo",
-    "",
-    null,
-    "TONY DEANGELO (D) PHILADELPHIA FLYERS"
+    "#77",
+    "(D)",
+    "Philadelphia_Flyers",
+    "25"
   ],
   [
     "24",
@@ -13,10 +14,10 @@
     "12"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    81,
+    10.125,
+    30.375,
+    40.5
   ],
   [
     [

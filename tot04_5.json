@@ -2,9 +2,10 @@
   [
     "Miro",
     "Heiskanen",
-    "",
-    null,
-    "MIRO HEISKANEN (D) DALLAS STARS"
+    "#4",
+    "(D)",
+    "Dallas_Stars",
+    "25"
   ],
   [
     "22",
@@ -13,10 +14,10 @@
     "19"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    79,
+    10.772727272727273,
+    57.45454545454545,
+    68.22727272727272
   ],
   [
     [
