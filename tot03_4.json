@@ -2,9 +2,10 @@
   [
     "Brent",
     "Burns",
-    "",
-    null,
-    "BRENT BURNS (D) CAROLINA HURRICANES"
+    "#8",
+    "(D)",
+    "Carolina_Hurricanes",
+    "25"
   ],
   [
     "25",
@@ -13,10 +14,10 @@
     "18"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    13.120000000000001,
+    45.92,
+    59.04
   ],
   [
     [
