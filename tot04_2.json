@@ -2,9 +2,10 @@
   [
     "Jason",
     "Robertson",
-    "",
-    null,
-    "JASON ROBERTSON (L) DALLAS STARS"
+    "#21",
+    "(L)",
+    "Dallas_Stars",
+    "26"
   ],
   [
     "26",
@@ -13,10 +14,10 @@
     "41"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    72.53846153846153,
+    56.76923076923077,
+    129.30769230769232
   ],
   [
     [
