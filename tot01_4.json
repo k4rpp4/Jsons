@@ -2,9 +2,10 @@
   [
     "Quinn",
     "Hughes",
-    "",
-    null,
-    "QUINN HUGHES (D) VANCOUVER CANUCKS"
+    "#43",
+    "(D)",
+    "Vancouver_Canucks",
+    "26"
   ],
   [
     "22",
@@ -13,10 +14,10 @@
     "24"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    78,
+    0,
+    85.0909090909091,
+    85.0909090909091
   ],
   [
     [

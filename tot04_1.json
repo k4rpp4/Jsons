@@ -2,9 +2,10 @@
   [
     "Patrick",
     "Kane",
-    "",
-    null,
-    "PATRICK KANE (R) CHICAGO BLACKHAWKS"
+    "#88",
+    "(R)",
+    "Chicago_Blackhawks",
+    "25"
   ],
   [
     "25",
@@ -13,10 +14,10 @@
     "20"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    13.120000000000001,
+    52.480000000000004,
+    65.6
   ],
   [
     [

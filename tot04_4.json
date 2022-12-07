@@ -2,9 +2,10 @@
   [
     "Moritz",
     "Seider",
-    "",
-    null,
-    "MORITZ SEIDER (D) DETROIT RED"
+    "#53",
+    "(D)",
+    "Detroit_Red_Wings",
+    "24"
   ],
   [
     "25",
@@ -13,10 +14,10 @@
     "11"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    83,
+    6.64,
+    29.88,
+    36.519999999999996
   ],
   [
     [

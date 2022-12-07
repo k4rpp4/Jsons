@@ -2,9 +2,10 @@
   [
     "Patrik",
     "Laine",
-    "",
-    null,
-    "PATRIK LAINE (R) COLUMBUS BLUE"
+    "#29",
+    "(R)",
+    "Columbus_Blue_Jackets",
+    "24"
   ],
   [
     "11",
@@ -13,10 +14,10 @@
     "7"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    69,
+    25.09090909090909,
+    18.818181818181817,
+    43.90909090909091
   ],
   [
     [
