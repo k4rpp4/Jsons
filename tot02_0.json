@@ -2,10 +2,9 @@
   [
     "Matthew",
     "Tkachuk",
-    "#19",
-    "(R)",
-    "Florida_Panthers",
-    "26"
+    "",
+    null,
+    "MATTHEW TKACHUK (R) FLORIDA PANTHERS"
   ],
   [
     "24",
@@ -14,12 +13,20 @@
     "35"
   ],
   [
-    80,
-    40,
-    76.66666666666667,
-    116.66666666666666
+    null,
+    null,
+    null,
+    null
   ],
   [
+    [
+      "6.12",
+      "@WPG",
+      "L5-2",
+      "0",
+      "1",
+      "20:37"
+    ],
     [
       "3.12",
       "@SEA",
