@@ -90,16 +90,27 @@
   [
     "Metropolitan_1",
     "New_Jersey_Devils",
-    "27",
+    "28",
     "21",
     "5",
-    "1",
-    "43",
-    "100",
-    "63"
+    "2",
+    "44",
+    "103",
+    "67"
   ],
   [
     "Metropolitan_2",
+    "Pittsburgh_Penguins",
+    "29",
+    "17",
+    "8",
+    "4",
+    "38",
+    "102",
+    "84"
+  ],
+  [
+    "Metropolitan_3",
     "Carolina_Hurricanes",
     "27",
     "15",
@@ -110,18 +121,18 @@
     "73"
   ],
   [
-    "Metropolitan_3",
-    "Pittsburgh_Penguins",
-    "28",
-    "16",
-    "8",
-    "4",
-    "36",
-    "100",
-    "83"
+    "Metropolitan_4",
+    "New_York_Rangers",
+    "30",
+    "15",
+    "10",
+    "5",
+    "35",
+    "93",
+    "85"
   ],
   [
-    "Metropolitan_4",
+    "Metropolitan_5",
     "New_York_Islanders",
     "29",
     "17",
@@ -130,17 +141,6 @@
     "34",
     "92",
     "80"
-  ],
-  [
-    "Metropolitan_5",
-    "New_York_Rangers",
-    "29",
-    "14",
-    "10",
-    "5",
-    "33",
-    "89",
-    "82"
   ],
   [
     "Metropolitan_6",
@@ -189,13 +189,13 @@
   [
     "Central_2",
     "Dallas_Stars",
-    "28",
+    "29",
     "16",
-    "7",
+    "8",
     "5",
     "37",
-    "105",
-    "81"
+    "106",
+    "83"
   ],
   [
     "Central_3",
