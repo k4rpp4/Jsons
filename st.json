@@ -133,6 +133,17 @@
   ],
   [
     "Metropolitan_5",
+    "New_York_Islanders",
+    "32",
+    "18",
+    "13",
+    "1",
+    "37",
+    "104",
+    "91"
+  ],
+  [
+    "Metropolitan_6",
     "Washington_Capitals",
     "33",
     "16",
@@ -141,17 +152,6 @@
     "36",
     "100",
     "96"
-  ],
-  [
-    "Metropolitan_6",
-    "New_York_Islanders",
-    "31",
-    "17",
-    "13",
-    "1",
-    "35",
-    "99",
-    "89"
   ],
   [
     "Metropolitan_7",
@@ -266,13 +266,13 @@
   [
     "Pacific_1",
     "Vegas_Golden_Knights",
-    "32",
+    "33",
     "22",
-    "9",
+    "10",
     "1",
     "45",
-    "108",
-    "86"
+    "110",
+    "91"
   ],
   [
     "Pacific_2",
