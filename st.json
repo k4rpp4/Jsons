@@ -2,13 +2,13 @@
   [
     "Atlantic_1",
     "Boston_Bruins",
-    "51",
+    "52",
     "39",
-    "7",
+    "8",
     "5",
     "83",
-    "192",
-    "111"
+    "193",
+    "113"
   ],
   [
     "Atlantic_2",
@@ -122,6 +122,17 @@
   ],
   [
     "Metropolitan_4",
+    "Washington_Capitals",
+    "54",
+    "28",
+    "20",
+    "6",
+    "62",
+    "168",
+    "153"
+  ],
+  [
+    "Metropolitan_5",
     "Pittsburgh_Penguins",
     "51",
     "26",
@@ -130,17 +141,6 @@
     "61",
     "169",
     "157"
-  ],
-  [
-    "Metropolitan_5",
-    "Washington_Capitals",
-    "53",
-    "27",
-    "20",
-    "6",
-    "60",
-    "166",
-    "152"
   ],
   [
     "Metropolitan_6",
