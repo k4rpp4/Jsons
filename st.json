@@ -1,7 +1,7 @@
 [
   [
     "Atlantic_1",
-    "-BOSBoston_Bruins",
+    "Boston_Bruins",
     "73",
     "57",
     "11",
@@ -89,7 +89,7 @@
   ],
   [
     "Metropolitan_1",
-    "-CARCarolina_Hurricanes",
+    "Carolina_Hurricanes",
     "72",
     "47",
     "16",
@@ -100,7 +100,7 @@
   ],
   [
     "Metropolitan_2",
-    "-NJDNew_Jersey_Devils",
+    "New_Jersey_Devils",
     "73",
     "46",
     "19",
@@ -166,7 +166,7 @@
   ],
   [
     "Metropolitan_8",
-    "-CBJColumbus_Blue_Jackets",
+    "Columbus_Blue_Jackets",
     "72",
     "23",
     "42",
@@ -243,7 +243,7 @@
   ],
   [
     "Central_7",
-    "-ARIArizona_Coyotes",
+    "Arizona_Coyotes",
     "74",
     "27",
     "34",
@@ -254,7 +254,7 @@
   ],
   [
     "Central_8",
-    "-CHIChicago_Blackhawks",
+    "Chicago_Blackhawks",
     "73",
     "24",
     "43",
@@ -331,7 +331,7 @@
   ],
   [
     "Pacific_7",
-    "-ANAAnaheim_Ducks",
+    "Anaheim_Ducks",
     "73",
     "23",
     "40",
@@ -342,7 +342,7 @@
   ],
   [
     "Pacific_8",
-    "-SJSSan_Jose_Sharks",
+    "San_Jose_Sharks",
     "73",
     "19",
     "39",
