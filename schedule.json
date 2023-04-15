@@ -1,41 +1,125 @@
 [
   [
-    "Pe-La",
+    "La-Su",
     [
       [
-        "BUF",
-        "CBJ",
-        "2:30"
+        "NYI",
+        "CAR",
+        "20:undefined"
       ],
       [
-        "COL",
-        "NSH",
-        "3:00"
+        "MIN",
+        "DAL",
+        "20:undefined"
+      ],
+      [
+        "FLA",
+        "BOS",
+        "20:30"
+      ],
+      [
+        "LAK",
+        "EDM",
+        "20:undefined"
       ]
     ]
   ],
   [
-    "La-Su",
-    []
-  ],
-  [
     "Su-Ma",
-    []
+    [
+      [
+        "SEA",
+        "COL",
+        "20:undefined"
+      ],
+      [
+        "NYR",
+        "NJD",
+        "20:undefined"
+      ],
+      [
+        "TBL",
+        "TOR",
+        "20:30"
+      ],
+      [
+        "WPG",
+        "VGK",
+        "20:undefined"
+      ]
+    ]
   ],
   [
     "Ma-Ti",
-    []
+    [
+      [
+        "FLA",
+        "BOS",
+        "20:30"
+      ],
+      [
+        "NYI",
+        "CAR",
+        "20:undefined"
+      ],
+      [
+        "MIN",
+        "DAL",
+        "20:undefined"
+      ],
+      [
+        "LAK",
+        "EDM",
+        "20:00"
+      ]
+    ]
   ],
   [
     "Ti-Ke",
-    []
+    [
+      [
+        "WPG",
+        "VGK",
+        "20:undefined"
+      ],
+      [
+        "TBL",
+        "TOR",
+        "20:undefined"
+      ],
+      [
+        "NYR",
+        "NJD",
+        "20:undefined"
+      ],
+      [
+        "SEA",
+        "COL",
+        "20:undefined"
+      ]
+    ]
   ],
   [
     "Ke-To",
-    []
+    [
+      [
+        "BOS",
+        "FLA",
+        "20:30"
+      ],
+      [
+        "EDM",
+        "LAK",
+        "20:00"
+      ]
+    ]
   ],
   [
     "To-Pe",
+    []
+  ],
+  [
+    "Pe-La",
     []
   ]
 ]
