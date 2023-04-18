@@ -2,9 +2,10 @@
   [
     "Evan",
     "Bouchard",
-    "",
-    null,
-    " "
+    "#2",
+    "(D)",
+    "Edmonton_Oilers",
+    "82"
   ],
   [
     "82",
@@ -13,10 +14,10 @@
     "40"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    8,
+    32,
+    40
   ],
   [
     [

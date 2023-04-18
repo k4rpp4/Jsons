@@ -2,9 +2,10 @@
   [
     "John",
     "Tavares",
-    "",
-    null,
-    " "
+    "#91",
+    "(L)",
+    "Toronto_Maple_Leafs",
+    "82"
   ],
   [
     "80",
@@ -13,10 +14,10 @@
     "80"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    80,
+    36,
+    44,
+    80
   ],
   [
     [
