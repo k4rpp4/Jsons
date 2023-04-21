@@ -4,7 +4,8 @@
     "Karlsson",
     "#65",
     "(D)",
-    "San_Jose_Sharks"
+    "San_Jose_Sharks",
+    "82"
   ],
   [
     "82",
@@ -13,10 +14,10 @@
     "101"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    25,
+    76,
+    101
   ],
   [
     [

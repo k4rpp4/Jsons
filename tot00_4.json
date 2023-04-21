@@ -4,7 +4,8 @@
     "Fox",
     "#23",
     "(D)",
-    "New_York_Rangers"
+    "New_York_Rangers",
+    "82"
   ],
   [
     "82",
@@ -13,10 +14,10 @@
     "72"
   ],
   [
-    null,
-    null,
-    null,
-    null
+    82,
+    12,
+    60,
+    72
   ],
   [
     [
