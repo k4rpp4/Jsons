@@ -1,30 +1,5 @@
 [
   [
-    "La-Su",
-    [
-      [
-        "VGK",
-        "WPG",
-        "20:00"
-      ],
-      [
-        "TOR",
-        "TBL",
-        "20:00"
-      ],
-      [
-        "NJD",
-        "NYR",
-        "20:00"
-      ],
-      [
-        "COL",
-        "SEA",
-        "20:00"
-      ]
-    ]
-  ],
-  [
     "Su-Ma",
     [
       [
@@ -80,7 +55,7 @@
       [
         "NYI",
         "CAR",
-        "20:undefined"
+        "20:00"
       ],
       [
         "MIN",
@@ -150,6 +125,31 @@
       [
         "DAL",
         "MIN",
+        "20:undefined"
+      ]
+    ]
+  ],
+  [
+    "La-Su",
+    [
+      [
+        "EDM",
+        "LAK",
+        "20:undefined"
+      ],
+      [
+        "VGK",
+        "WPG",
+        "20:undefined"
+      ],
+      [
+        "TOR",
+        "TBL",
+        "20:undefined"
+      ],
+      [
+        "NJD",
+        "NYR",
         "20:undefined"
       ]
     ]
