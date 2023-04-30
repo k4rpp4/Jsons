@@ -1,41 +1,16 @@
 [
   [
-    "La-Su",
-    [
-      [
-        "TOR",
-        "TBL",
-        "20:00"
-      ],
-      [
-        "NJD",
-        "NYR",
-        "20:00"
-      ],
-      [
-        "EDM",
-        "LAK",
-        "20:00"
-      ]
-    ]
-  ],
-  [
     "Su-Ma",
     [
       [
         "FLA",
         "BOS",
-        "20:undefined"
+        "20:30"
       ],
       [
         "SEA",
         "COL",
-        "20:undefined"
-      ],
-      [
-        "MIN",
-        "DAL",
-        "20:undefined"
+        "20:30"
       ]
     ]
   ],
@@ -45,11 +20,6 @@
       [
         "LAK",
         "EDM",
-        "20:undefined"
-      ],
-      [
-        "TBL",
-        "TOR",
         "20:undefined"
       ],
       [
@@ -73,6 +43,10 @@
   ],
   [
     "Pe-La",
+    []
+  ],
+  [
+    "La-Su",
     []
   ]
 ]
