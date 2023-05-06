@@ -1,15 +1,5 @@
 [
   [
-    "Pe-La",
-    [
-      [
-        "NJD",
-        "CAR",
-        "21:00"
-      ]
-    ]
-  ],
-  [
     "La-Su",
     [
       [
@@ -90,6 +80,21 @@
       [
         "SEA",
         "DAL",
+        "21:undefined"
+      ]
+    ]
+  ],
+  [
+    "Pe-La",
+    [
+      [
+        "FLA",
+        "TOR",
+        "21:undefined"
+      ],
+      [
+        "EDM",
+        "VGK",
         "21:undefined"
       ]
     ]
