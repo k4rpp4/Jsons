@@ -1,15 +1,5 @@
 [
   [
-    "La-Su",
-    [
-      [
-        "EDM",
-        "VGK",
-        "21:00"
-      ]
-    ]
-  ],
-  [
     "Su-Ma",
     [
       [
@@ -95,6 +85,21 @@
       [
         "EDM",
         "VGK",
+        "21:undefined"
+      ]
+    ]
+  ],
+  [
+    "La-Su",
+    [
+      [
+        "CAR",
+        "NJD",
+        "21:undefined"
+      ],
+      [
+        "DAL",
+        "SEA",
         "21:undefined"
       ]
     ]
