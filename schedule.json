@@ -1,15 +1,5 @@
 [
   [
-    "Ma-Ti",
-    [
-      [
-        "VGK",
-        "EDM",
-        "21:30"
-      ]
-    ]
-  ],
-  [
     "Ti-Ke",
     [
       [
@@ -45,12 +35,12 @@
       [
         "NJD",
         "CAR",
-        "21:undefined"
+        "21:00"
       ],
       [
         "SEA",
         "DAL",
-        "21:undefined"
+        "21:30"
       ]
     ]
   ],
@@ -95,6 +85,21 @@
       [
         "VGK",
         "EDM",
+        "21:undefined"
+      ]
+    ]
+  ],
+  [
+    "Ma-Ti",
+    [
+      [
+        "NJD",
+        "CAR",
+        "21:undefined"
+      ],
+      [
+        "SEA",
+        "DAL",
         "21:undefined"
       ]
     ]
