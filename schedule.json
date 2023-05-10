@@ -1,20 +1,5 @@
 [
   [
-    "Ti-Ke",
-    [
-      [
-        "CAR",
-        "NJD",
-        "21:00"
-      ],
-      [
-        "DAL",
-        "SEA",
-        "21:30"
-      ]
-    ]
-  ],
-  [
     "Ke-To",
     [
       [
@@ -100,6 +85,21 @@
       [
         "SEA",
         "DAL",
+        "21:undefined"
+      ]
+    ]
+  ],
+  [
+    "Ti-Ke",
+    [
+      [
+        "FLA",
+        "TOR",
+        "21:undefined"
+      ],
+      [
+        "EDM",
+        "VGK",
         "21:undefined"
       ]
     ]
