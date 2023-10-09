@@ -1,0 +1,67 @@
+[
+    {
+    "contestant": "Helena",
+    "teamName": "Kahvanäppi",
+    "Players": [
+    {"Forward1": "Connor McDavid"},
+    {"Forward2": "Roope Hintz"},
+    {"Forward3": "Mitchell Marner"},
+    {"Defender1": "Quinn Hughes"},
+    {"Defender2": "Rasmus Dahlin"},
+    {"Forward4": "Tage Thompson"},
+    {"Defender3": "Devon Toews"}
+    ]
+    },
+    {
+    "contestant": "Tero",
+    "teamName": "HC Humpuuki",
+    "Players": [
+    {"Forward1": "Mikko Rantanen"},
+    {"Forward2": "Matthew Tkachuk"},
+    {"Forward3": "Nikita Kucherov"},
+    {"Defender1": "Roman Josi"},
+    {"Defender2": "Josh Morrissey"},
+    {"Forward4": "Ryan Nugent-Hopkins"},
+    {"Defender3": "Dougie Hamilton"}
+    ]
+    },
+    {
+    "contestant": "Samppa",
+    "teamName": "TusinaTuhnut",
+    "Players": [
+    {"Forward1": "Leon Draisaitl"},
+    {"Forward2": "Sebastian Aho"},
+    {"Forward3": "Auston Matthews"},
+    {"Defender1": "Erik Karlsson"},
+    {"Defender2": "Adam Fox"},
+    {"Forward4": "Tim Stützle"},
+    {"Defender3": "Brandon Montour"}
+    ]
+    },
+    {
+    "contestant": "Matti",
+    "teamName": "Porsaanreiät",
+    "Players": [
+    {"Forward1": "Nathan MacKinnon"},
+    {"Forward2": "Jack Hughes"},
+    {"Forward3": "David Pastrnak"},
+    {"Defender1": "Santeri Hatakka"},
+    {"Defender2": "Evan Bouchard"},
+    {"Forward4": "Artemi Panarin"},
+    {"Defender3": "Moritz Seider"}
+    ]
+    },
+    {
+    "contestant": "Kari",
+    "teamName": "Heiskan Housut",
+    "Players": [
+    {"Forward1": "Aleksander Barkov"},
+    {"Forward2": "Jason Robertson"},
+    {"Forward3": "Connor Bedard"},
+    {"Defender1": "Miro Heiskanen"},
+    {"Defender2": "Cale Makar"},
+    {"Forward4": "Elias Pettersson"},
+    {"Defender3": "John Carlson"}
+    ]
+    }
+]

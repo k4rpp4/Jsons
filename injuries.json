@@ -1,0 +1,29 @@
+[
+  {
+    "teamName": "Colorado Avalanche",
+    "expectedReturn": "11.10.2023",
+    "playerName": "Mikko Rantanen",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Lower Body",
+    "reportedDate": "5.10.2023",
+    "report": "Rantanen (alavartalo) luisteli torstaina yksin ennen kuin hän liittyi hetkeksi joukkuetovereihinsa aamulla luistelemaan, raportoi Evan Rawal Colorado Hockey Now -lehden mukaan."
+  },
+  {
+    "teamName": "Dallas Stars",
+    "expectedReturn": "12.10.2023",
+    "playerName": "Roope Hintz",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Upper Body",
+    "reportedDate": "5.10.2023",
+    "report": "Hintz (ylävartalo) luisteli tiistaina ja torstaina, Saad Yousuf The Athletic raportoi."
+  },
+  {
+    "teamName": "Florida Panthers",
+    "expectedReturn": "12.12.2023",
+    "playerName": "Brandon Montour",
+    "injuryStatus": "IR-NR",
+    "injuryReason": "Shoulder",
+    "reportedDate": "",
+    "report": ""
+  }
+]
