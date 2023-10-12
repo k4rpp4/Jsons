@@ -1,12 +1,12 @@
 [
   {
     "teamName": "Dallas Stars",
-    "expectedReturn": "12.10.2023",
+    "expectedReturn": "17.10.2023",
     "playerName": "Roope Hintz",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "11.10.2023",
-    "report": "Hintz (ylävartalo) on peli-aika päätös vastaan Blues torstaina, Lia Assimakopoulos Dallas Morning News raportoi."
+    "reportedDate": "12.10.2023",
+    "report": "Dallas Morning Newsin Lia Assimakopoulosin mukaan Hintz (ylävartalo) ei ole avauskokoonpanossa torstaina St. Louisia vastaan."
   },
   {
     "teamName": "Florida Panthers",
