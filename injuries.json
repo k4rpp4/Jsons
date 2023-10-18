@@ -1,12 +1,12 @@
 [
   {
-    "teamName": "Dallas Stars",
-    "expectedReturn": "Unknown",
-    "playerName": "Roope Hintz",
-    "injuryStatus": "DAY-TO-DAY",
+    "teamName": "Carolina Hurricanes",
+    "expectedReturn": "19.10.2023",
+    "playerName": "Sebastian Aho",
+    "injuryStatus": "OUT",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "13.10.2023",
-    "report": "Hintz (ylävartalo) harjoitteli ilman rajoituksia perjantaina, mukaan Mike Heika Starsin virallisella sivustolla."
+    "reportedDate": "17.10.2023",
+    "report": "Aho (ylävartalo) ei pelaa tiistaina vastaan Sharks."
   },
   {
     "teamName": "Florida Panthers",
