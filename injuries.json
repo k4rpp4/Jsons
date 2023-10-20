@@ -1,12 +1,12 @@
 [
   {
     "teamName": "Carolina Hurricanes",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "21.10.2023",
     "playerName": "Sebastian Aho",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "17.10.2023",
-    "report": "Aho (ylävartalo) ei pelaa tiistaina vastaan Sharks."
+    "reportedDate": "19.10.2023",
+    "report": "Aho (ylävartalo) ei ole käytettävissä torstain kilpailu vastaan Seattle, kohti Walt Ruff Hurricanes \"virallisella sivustolla."
   },
   {
     "teamName": "Florida Panthers",
