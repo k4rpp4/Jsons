@@ -1,12 +1,12 @@
 [
   {
     "teamName": "Edmonton Oilers",
-    "expectedReturn": "24.10.2023",
+    "expectedReturn": "2.11.2023",
     "playerName": "Connor McDavid",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Ilmoittamaton",
-    "reportedDate": "21.10.2023",
-    "report": "McDavid ei ollut käytettävissä tiedotusvälineille lauantain 3-2 jatkoajan tappion jälkeen Jetsille, koska hän sai huomiota harjoitteluhenkilökunnalta, Daniel Nugent-Bowman The Athleticista kertoo."
+    "reportedDate": "22.10.2023",
+    "report": "McDavid kärsi ylävartalon vamman lauantaina vastaan Jets ja odotetaan jäävän 1-2 viikkoa."
   },
   {
     "teamName": "Carolina Hurricanes",
