@@ -4,13 +4,13 @@
     "expectedReturn": "2.11.2023",
     "playerName": "Connor McDavid",
     "injuryStatus": "OUT",
-    "injuryReason": "Ilmoittamaton",
+    "injuryReason": "Ylävartalo",
     "reportedDate": "22.10.2023",
     "report": "McDavid kärsi ylävartalon vamman lauantaina vastaan Jets ja odotetaan jäävän 1-2 viikkoa."
   },
   {
     "teamName": "Carolina Hurricanes",
-    "expectedReturn": "24.10.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Sebastian Aho",
     "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Ylävartalo",
