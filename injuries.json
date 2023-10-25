@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Florida Panthers",
+    "expectedReturn": "28.10.2023",
+    "playerName": "Aleksander Barkov",
+    "injuryStatus": "OUT",
+    "injuryReason": "Sairaus",
+    "reportedDate": "24.10.2023",
+    "report": "Barkov (sairaus) ei ottanut jään lämmittelyt, mikä tarkoittaa, että hän missaa tiistain peli vs. Sharks, Jameson Olive Panthers \"virallinen sivusto raportoi."
+  },
+  {
     "teamName": "Edmonton Oilers",
     "expectedReturn": "2.11.2023",
     "playerName": "Connor McDavid",
@@ -7,15 +16,6 @@
     "injuryReason": "Ylävartalo",
     "reportedDate": "22.10.2023",
     "report": "McDavid kärsi ylävartalon vamman lauantaina vastaan Jets ja odotetaan jäävän 1-2 viikkoa."
-  },
-  {
-    "teamName": "Carolina Hurricanes",
-    "expectedReturn": "Unknown",
-    "playerName": "Sebastian Aho",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Ylävartalo",
-    "reportedDate": "21.10.2023",
-    "report": "Aho (ylävartalo) pidetään epävarmana pelata vastaan Colorado lauantaina, mukaan Ryan Boulding NHL.com."
   },
   {
     "teamName": "Florida Panthers",
