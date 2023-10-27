@@ -1,21 +1,12 @@
 [
   {
-    "teamName": "Florida Panthers",
-    "expectedReturn": "28.10.2023",
-    "playerName": "Aleksander Barkov",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Sairaus",
-    "reportedDate": "26.10.2023",
-    "report": "Barkov, joka jäi tiistain 3-1 tappion San Jose koska sairaus, on parempi olo torstaina ja saattaa luistella perjantaina, per Katie Engleson Bally Sports Florida."
-  },
-  {
     "teamName": "Edmonton Oilers",
     "expectedReturn": "29.10.2023",
     "playerName": "Connor McDavid",
-    "injuryStatus": "OUT",
+    "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "26.10.2023",
-    "report": "McDavid (ylävartalo) ei palaa torstain peli vs. Rangers, mutta hän on jatkanut luistelu, Daniel Nugent-Bowman The Athletic raportoi."
+    "reportedDate": "27.10.2023",
+    "report": "McDavid (ylävartalo) luisteli toisena peräkkäisenä päivänä perjantaina, Mark Spector Sportsnet raportoi. Kun kysyttiin McDavidin tilasta sunnuntain Heritage Classic vs. Calgary harjoituksen jälkeen, valmentaja Jay Woodcroft sanoi: \"Hänellä oli hyvä päivä (luistelu) tänään. En sulkisi häntä pois (sunnuntaina), mutta en ole valmis sanomaan kumpaakaan. Meillä on aikaa.\""
   },
   {
     "teamName": "Florida Panthers",
