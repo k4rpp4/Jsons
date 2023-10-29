@@ -1,12 +1,12 @@
 [
   {
     "teamName": "Edmonton Oilers",
-    "expectedReturn": "29.10.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Connor McDavid",
     "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "27.10.2023",
-    "report": "McDavid (ylävartalo) luisteli toisena peräkkäisenä päivänä perjantaina, Mark Spector Sportsnet raportoi. Kun kysyttiin McDavidin tilasta sunnuntain Heritage Classic vs. Calgary harjoituksen jälkeen, valmentaja Jay Woodcroft sanoi: \"Hänellä oli hyvä päivä (luistelu) tänään. En sulkisi häntä pois (sunnuntaina), mutta en ole valmis sanomaan kumpaakaan. Meillä on aikaa.\""
+    "reportedDate": "28.10.2023",
+    "report": "McDavid (ylävartalo) osallistui täysi käytäntö Commonwealth Stadium Edmontonissa lauantaina, mutta päävalmentaja Jay Woodcroft ei sitoutunut 26-vuotias on kokoonpanolla sunnuntain Heritage Classic vs. Flames, Daniel Nugent-Bowman The Athletic raportoi."
   },
   {
     "teamName": "Florida Panthers",
