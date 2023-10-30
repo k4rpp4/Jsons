@@ -1,14 +1,5 @@
 [
   {
-    "teamName": "Edmonton Oilers",
-    "expectedReturn": "Unknown",
-    "playerName": "Connor McDavid",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Ylävartalo",
-    "reportedDate": "29.10.2023",
-    "report": "McDavid (ylävartalo) on peli-aika päätös sunnuntaina vastaan Calgary, per Tony Brar of Oilers TV."
-  },
-  {
     "teamName": "Florida Panthers",
     "expectedReturn": "20.11.2023",
     "playerName": "Brandon Montour",
