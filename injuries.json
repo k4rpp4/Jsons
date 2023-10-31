@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Colorado Avalanche",
+    "expectedReturn": "1.11.2023",
+    "playerName": "Cale Makar",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Ilmoittamaton",
+    "reportedDate": "31.10.2023",
+    "report": "Makar on tekemisissä julkistamattoman vamman kanssa, joka piti hänet pois tiistain harjoituksista, Peter Baugh The Athleticista kertoo."
+  },
+  {
     "teamName": "Florida Panthers",
     "expectedReturn": "20.11.2023",
     "playerName": "Brandon Montour",
