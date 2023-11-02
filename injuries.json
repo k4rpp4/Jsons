@@ -1,14 +1,5 @@
 [
   {
-    "teamName": "Colorado Avalanche",
-    "expectedReturn": "Unknown",
-    "playerName": "Cale Makar",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Ilmoittamaton",
-    "reportedDate": "1.11.2023",
-    "report": "Makar (ilmoittamaton) osallistui keskiviikon aamulla luistella, Evan Rawal Colorado Hockey Now raportoi."
-  },
-  {
     "teamName": "Florida Panthers",
     "expectedReturn": "20.11.2023",
     "playerName": "Brandon Montour",
