@@ -1,12 +1,12 @@
 [
   {
     "teamName": "New York Rangers",
-    "expectedReturn": "4.11.2023",
+    "expectedReturn": "29.11.2023",
     "playerName": "Adam Fox",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "IR-LT",
     "injuryReason": "Alavartalo",
-    "reportedDate": "2.11.2023",
-    "report": "Fox sai alavartalovamman torstain ottelussa Hurricanesia vastaan, eikä hän palaa."
+    "reportedDate": "3.11.2023",
+    "report": "Fox sijoitettiin pitkäaikainen loukkaantunut varallaololuettelon perjantai, per Dan Rosen NHL.com."
   },
   {
     "teamName": "Florida Panthers",
