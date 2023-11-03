@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "New York Rangers",
+    "expectedReturn": "4.11.2023",
+    "playerName": "Adam Fox",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Alavartalo",
+    "reportedDate": "2.11.2023",
+    "report": "Fox sai alavartalovamman torstain ottelussa Hurricanesia vastaan, eikä hän palaa."
+  },
+  {
     "teamName": "Florida Panthers",
     "expectedReturn": "20.11.2023",
     "playerName": "Brandon Montour",
