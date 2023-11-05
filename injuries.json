@@ -1,12 +1,12 @@
 [
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "5.11.2023",
+    "expectedReturn": "7.11.2023",
     "playerName": "Jack Hughes",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Alavartalo",
-    "reportedDate": "3.11.2023",
-    "report": "Hughes (alavartalo) ei palaa perjantain kallistus vastaan Blues, Amanda Stein Devils \"virallinen sivusto raportoi."
+    "injuryStatus": "OUT",
+    "injuryReason": "Ylävartalo",
+    "reportedDate": "4.11.2023",
+    "report": "Hughesin odotetaan jäävän pois sunnuntain pelistä Chicagoa vastaan, mutta hänen ylävartalovammansa ei ole niin paha kuin se olisi voinut olla, kertoo Sportsnetin Elliotte Friedman."
   },
   {
     "teamName": "New York Rangers",
