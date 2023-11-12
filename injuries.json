@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Tampa Bay Lightning",
+    "expectedReturn": "14.11.2023",
+    "playerName": "Nikita Kucherov",
+    "injuryStatus": "OUT",
+    "injuryReason": "Sairaus",
+    "reportedDate": "11.11.2023",
+    "report": "Kucherov (sairaus) ei pelaa lauantaina vastaan Carolina."
+  },
+  {
     "teamName": "New Jersey Devils",
     "expectedReturn": "14.11.2023",
     "playerName": "Jack Hughes",
