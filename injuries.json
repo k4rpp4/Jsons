@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Buffalo Sabres",
+    "expectedReturn": "2.12.2023",
+    "playerName": "Tage Thompson",
+    "injuryStatus": "OUT",
+    "injuryReason": "Ylävartalo",
+    "reportedDate": "14.11.2023",
+    "report": "Thompson (alavartalo) on kyseenalainen palata tiistain peli vastaan Bruins."
+  },
+  {
     "teamName": "New Jersey Devils",
     "expectedReturn": "16.11.2023",
     "playerName": "Jack Hughes",
@@ -19,11 +28,11 @@
   },
   {
     "teamName": "Florida Panthers",
-    "expectedReturn": "20.11.2023",
+    "expectedReturn": "17.11.2023",
     "playerName": "Brandon Montour",
     "injuryStatus": "IR",
     "injuryReason": "Olkapää",
-    "reportedDate": "12.11.2023",
-    "report": "Montour (olkapää) on täysi osallistuja harjoituksissa maanantaina, Jameson Olive Panthersin virallisella sivustolla raportoi."
+    "reportedDate": "14.11.2023",
+    "report": "Montour (olkapää) saattaa olla valmis palaamaan Floridan kolmen pelin road trip, mukaan Jameson Olive Panthersin virallisella sivustolla."
   }
 ]
