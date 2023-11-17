@@ -12,10 +12,10 @@
     "teamName": "New Jersey Devils",
     "expectedReturn": "18.11.2023",
     "playerName": "Jack Hughes",
-    "injuryStatus": "OUT",
+    "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Olkapää",
-    "reportedDate": "16.11.2023",
-    "report": "Hughes (olkapää) ei ole valmis palaamaan torstaina vastaan Pittsburgh, mukaan Erika Wachter Barnes NHL Network."
+    "reportedDate": "17.11.2023",
+    "report": "Hughes (olkapää) palasi harjoituksiin perjantaina, mikä voisi vapauttaa hänet pelaamaan Rangersia vastaan lauantaina."
   },
   {
     "teamName": "New York Rangers",
@@ -24,7 +24,7 @@
     "injuryStatus": "IR-LT",
     "injuryReason": "Alavartalo",
     "reportedDate": "3.11.2023",
-    "report": "Fox (alavartalo) sijoitettiin pitkäaikainen loukkaantunut varallaololuettelon perjantai, per Dan Rosen NHL.com."
+    "report": "Fox (alavartalo) sijoitettiin pitkäaikainen loukkaantunut varallaololuetteloon perjantaina, per Dan Rosen NHL.com."
   },
   {
     "teamName": "Florida Panthers",
