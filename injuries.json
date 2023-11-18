@@ -3,10 +3,10 @@
     "teamName": "Buffalo Sabres",
     "expectedReturn": "2.12.2023",
     "playerName": "Tage Thompson",
-    "injuryStatus": "OUT",
+    "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "15.11.2023",
-    "report": "Thompson (ylävartalo) on viikosta viikkoon, mutta ei kuukaudesta kuukauteen, valmentaja Don Granato kertoi keskiviikkona Bleacher Reportin Joe Yerdonille."
+    "reportedDate": "17.11.2023",
+    "report": "Thompson (ylävartalo) nimettiin loukkaantunut varaukseen perjantaina, per NHL media sivusto."
   },
   {
     "teamName": "New Jersey Devils",
@@ -25,14 +25,5 @@
     "injuryReason": "Alavartalo",
     "reportedDate": "3.11.2023",
     "report": "Fox (alavartalo) sijoitettiin pitkäaikainen loukkaantunut varallaololuetteloon perjantaina, per Dan Rosen NHL.com."
-  },
-  {
-    "teamName": "Florida Panthers",
-    "expectedReturn": "Unknown",
-    "playerName": "Brandon Montour",
-    "injuryStatus": "IR",
-    "injuryReason": "Olkapää",
-    "reportedDate": "14.11.2023",
-    "report": "Montour (olkapää) saattaa olla valmis palaamaan Floridan kolmen pelin road trip, mukaan Jameson Olive Panthersin virallisella sivustolla."
   }
 ]
