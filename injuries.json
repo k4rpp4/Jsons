@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Florida Panthers",
+    "expectedReturn": "20.11.2023",
+    "playerName": "Aleksander Barkov",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Alavartalo",
+    "reportedDate": "17.11.2023",
+    "report": "Barkov kärsi alavartalon vamman perjantaina vastaan Ducks, George Richards Florida Hockey Now raportoi."
+  },
+  {
     "teamName": "Buffalo Sabres",
     "expectedReturn": "2.12.2023",
     "playerName": "Tage Thompson",
