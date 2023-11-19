@@ -1,12 +1,12 @@
 [
   {
     "teamName": "Florida Panthers",
-    "expectedReturn": "20.11.2023",
+    "expectedReturn": "22.11.2023",
     "playerName": "Aleksander Barkov",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Alavartalo",
-    "reportedDate": "17.11.2023",
-    "report": "Barkov kärsi alavartalon vamman perjantaina vastaan Ducks, George Richards Florida Hockey Now raportoi."
+    "injuryStatus": "OUT",
+    "injuryReason": "Polvi",
+    "reportedDate": "19.11.2023",
+    "report": "Barkov (polvi) ei pelaa maanantaina vastaan Edmonton."
   },
   {
     "teamName": "Buffalo Sabres",
