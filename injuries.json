@@ -18,15 +18,6 @@
     "report": "Thompson (ylävartalo) nimettiin loukkaantunut varaukseen perjantaina, per NHL media sivusto."
   },
   {
-    "teamName": "New Jersey Devils",
-    "expectedReturn": "Unknown",
-    "playerName": "Jack Hughes",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Olkapää",
-    "reportedDate": "17.11.2023",
-    "report": "Hughes (olkapää) palasi harjoituksiin perjantaina, mikä voisi vapauttaa hänet pelaamaan Rangersia vastaan lauantaina."
-  },
-  {
     "teamName": "New York Rangers",
     "expectedReturn": "29.11.2023",
     "playerName": "Adam Fox",
