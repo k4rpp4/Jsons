@@ -1,7 +1,16 @@
 [
   {
+    "teamName": "Colorado Avalanche",
+    "expectedReturn": "Unknown",
+    "playerName": "Nathan MacKinnon",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Jalka",
+    "reportedDate": "24.11.2023",
+    "report": "MacKinnon meni röntgenhuoneeseen keskiviikon pelin jälkeen, Evan Rawal Colorado Hockey Now raportoi."
+  },
+  {
     "teamName": "Florida Panthers",
-    "expectedReturn": "24.11.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Aleksander Barkov",
     "injuryStatus": "OUT",
     "injuryReason": "Polvi",
