@@ -1,23 +1,5 @@
 [
   {
-    "teamName": "Colorado Avalanche",
-    "expectedReturn": "Unknown",
-    "playerName": "Nathan MacKinnon",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Jalka",
-    "reportedDate": "24.11.2023",
-    "report": "MacKinnon meni röntgenhuoneeseen keskiviikon pelin jälkeen, Evan Rawal Colorado Hockey Now raportoi."
-  },
-  {
-    "teamName": "Florida Panthers",
-    "expectedReturn": "Unknown",
-    "playerName": "Aleksander Barkov",
-    "injuryStatus": "OUT",
-    "injuryReason": "Polvi",
-    "reportedDate": "22.11.2023",
-    "report": "Barkov (polvi) ei ole valmis pelaamaan keskiviikkona vs. Boston, Jameson Olive Panthers \"virallinen sivusto raportoi."
-  },
-  {
     "teamName": "Buffalo Sabres",
     "expectedReturn": "2.12.2023",
     "playerName": "Tage Thompson",
