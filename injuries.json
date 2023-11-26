@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "New York Islanders",
+    "expectedReturn": "28.11.2023",
+    "playerName": "Sebastian Aho",
+    "injuryStatus": "OUT",
+    "injuryReason": "Ylävartalo",
+    "reportedDate": "25.11.2023",
+    "report": "Aho (ylävartalo) loukkaantui perjantaina 5-3 voittaa Ottawa, per Callum Fraser NHL.com."
+  },
+  {
     "teamName": "Buffalo Sabres",
     "expectedReturn": "2.12.2023",
     "playerName": "Tage Thompson",
