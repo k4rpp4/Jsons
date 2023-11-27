@@ -1,12 +1,21 @@
 [
   {
-    "teamName": "New York Islanders",
-    "expectedReturn": "28.11.2023",
-    "playerName": "Sebastian Aho",
+    "teamName": "Colorado Avalanche",
+    "expectedReturn": "Unknown",
+    "playerName": "Nathan MacKinnon",
     "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Sairaus",
+    "reportedDate": "27.11.2023",
+    "report": "MacKinnon (sairaus) on peli-aika päätös maanantaina vastaan Tampa Bay, mukaan Ryan Boulding NHL.com."
+  },
+  {
+    "teamName": "New York Islanders",
+    "expectedReturn": "2.12.2023",
+    "playerName": "Sebastian Aho",
+    "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "25.11.2023",
-    "report": "Aho (ylävartalo) loukkaantui perjantaina 5-3 voittaa Ottawa, per Callum Fraser NHL.com."
+    "reportedDate": "27.11.2023",
+    "report": "Aho (ylävartalo) laitettiin loukkaantunut reserviin maanantaina."
   },
   {
     "teamName": "Buffalo Sabres",
@@ -23,7 +32,7 @@
     "playerName": "Adam Fox",
     "injuryStatus": "IR-LT",
     "injuryReason": "Alavartalo",
-    "reportedDate": "3.11.2023",
-    "report": "Fox (alavartalo) sijoitettiin pitkäaikainen loukkaantunut varallaololuetteloon perjantaina, per Dan Rosen NHL.com."
+    "reportedDate": "27.11.2023",
+    "report": "Fox (alavartalo) oli täysi osallistuja maanantain käytännössä ja näyttää olevan raiteilla palata, kun hän on oikeutettu aktivoitavaksi pois pitkäaikainen loukkaantunut varalla keskiviikkona vs. Detroit, Dan Rosen NHL.com raportoi."
   }
 ]
