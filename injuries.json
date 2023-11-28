@@ -1,14 +1,5 @@
 [
   {
-    "teamName": "Colorado Avalanche",
-    "expectedReturn": "Unknown",
-    "playerName": "Nathan MacKinnon",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Sairaus",
-    "reportedDate": "27.11.2023",
-    "report": "MacKinnon (sairaus) on peli-aika päätös maanantaina vastaan Tampa Bay, mukaan Ryan Boulding NHL.com."
-  },
-  {
     "teamName": "New York Islanders",
     "expectedReturn": "2.12.2023",
     "playerName": "Sebastian Aho",
