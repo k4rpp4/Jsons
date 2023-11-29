@@ -5,8 +5,8 @@
     "playerName": "Dougie Hamilton",
     "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "28.11.2023",
-    "report": "Hamilton kärsi ylävartalon vamman tiistaina vs. Islanders, Amanda Stein Devils \"virallinen sivusto raportoi."
+    "reportedDate": "29.11.2023",
+    "report": "Hamilton (ylävartalo) arvioidaan ja on edelleen kyseenalainen torstain peli vs. Philadelphia, valmentaja Lindy Ruff kertoi Sam Kasan Devilsin virallisella sivustolla keskiviikkona."
   },
   {
     "teamName": "New York Islanders",
@@ -25,14 +25,5 @@
     "injuryReason": "Ylävartalo",
     "reportedDate": "17.11.2023",
     "report": "Thompson (ylävartalo) nimettiin loukkaantunut varaukseen perjantaina, per NHL media sivusto."
-  },
-  {
-    "teamName": "New York Rangers",
-    "expectedReturn": "Unknown",
-    "playerName": "Adam Fox",
-    "injuryStatus": "IR-LT",
-    "injuryReason": "Alavartalo",
-    "reportedDate": "27.11.2023",
-    "report": "Fox (alavartalo) oli täysi osallistuja maanantain käytännössä ja näyttää olevan raiteilla palata, kun hän on oikeutettu aktivoitavaksi pois pitkäaikainen loukkaantunut varalla keskiviikkona vs. Detroit, Dan Rosen NHL.com raportoi."
   }
 ]
