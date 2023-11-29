@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "New Jersey Devils",
+    "expectedReturn": "30.11.2023",
+    "playerName": "Dougie Hamilton",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Ylävartalo",
+    "reportedDate": "28.11.2023",
+    "report": "Hamilton kärsi ylävartalon vamman tiistaina vs. Islanders, Amanda Stein Devils \"virallinen sivusto raportoi."
+  },
+  {
     "teamName": "New York Islanders",
     "expectedReturn": "2.12.2023",
     "playerName": "Sebastian Aho",
