@@ -1,12 +1,12 @@
 [
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "1.12.2023",
     "playerName": "Dougie Hamilton",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "29.11.2023",
-    "report": "Hamilton (ylävartalo) arvioidaan ja on edelleen kyseenalainen torstain peli vs. Philadelphia, valmentaja Lindy Ruff kertoi Sam Kasan Devilsin virallisella sivustolla keskiviikkona."
+    "reportedDate": "30.11.2023",
+    "report": "Hamiltonin (ylävartalo) ei odoteta pelaavan torstaina Philadelphiaa vastaan."
   },
   {
     "teamName": "New York Islanders",
