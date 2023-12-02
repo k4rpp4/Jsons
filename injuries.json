@@ -1,10 +1,10 @@
 [
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "7.12.2023",
+    "expectedReturn": "6.02.2024",
     "playerName": "Dougie Hamilton",
     "injuryStatus": "IR",
-    "injuryReason": "Ylävartalo",
+    "injuryReason": "Pectoral",
     "reportedDate": "1.12.2023",
     "report": "Hamilton (ylävartalo) on sijoitettu loukkaantunut varaukseen, per NHL media sivusto."
   },
