@@ -3,7 +3,7 @@
     "teamName": "Colorado Avalanche",
     "expectedReturn": "5.12.2023",
     "playerName": "Cale Makar",
-    "injuryStatus": "OUT",
+    "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Alavartalo",
     "reportedDate": "3.12.2023",
     "report": "Makar (alavartalo) ei pelaa sunnuntaina vastaan Kings, Corey Masisak The Denver Post raportoi."
@@ -32,7 +32,7 @@
     "playerName": "Tage Thompson",
     "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "29.11.2023",
-    "report": "Thompson (ylävartalo) edistyy hyvin, mutta on edelleen viikosta viikkoon, kertoo Bill Hoppe Olean Times Heraldista."
+    "reportedDate": "3.12.2023",
+    "report": "Thompson (ylävartalo) on luistellut yksin, kertoo Bill Hoppe Olean Times Heraldista."
   }
 ]
