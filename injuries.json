@@ -1,16 +1,16 @@
 [
   {
     "teamName": "Colorado Avalanche",
-    "expectedReturn": "5.12.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Cale Makar",
     "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Alavartalo",
-    "reportedDate": "3.12.2023",
-    "report": "Makar (alavartalo) ei pelaa sunnuntaina vastaan Kings, Corey Masisak The Denver Post raportoi."
+    "reportedDate": "5.12.2023",
+    "report": "Makar (alavartalo) pidetään epävarma tiistain matchup vastaan Anaheim, mukaan Corey Masisak The Denver Post."
   },
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "11.01.2024",
+    "expectedReturn": "15.02.2024",
     "playerName": "Dougie Hamilton",
     "injuryStatus": "IR",
     "injuryReason": "Pectoral",
@@ -19,20 +19,11 @@
   },
   {
     "teamName": "New York Islanders",
-    "expectedReturn": "5.12.2023",
+    "expectedReturn": "7.12.2023",
     "playerName": "Sebastian Aho",
     "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "27.11.2023",
-    "report": "Aho (ylävartalo) laitettiin loukkaantunut reserviin maanantaina."
-  },
-  {
-    "teamName": "Buffalo Sabres",
-    "expectedReturn": "5.12.2023",
-    "playerName": "Tage Thompson",
-    "injuryStatus": "IR",
-    "injuryReason": "Ylävartalo",
-    "reportedDate": "3.12.2023",
-    "report": "Thompson (ylävartalo) on luistellut yksin, kertoo Bill Hoppe Olean Times Heraldista."
+    "reportedDate": "5.12.2023",
+    "report": "Aho (ylävartalo) luistelee joukkueen kanssa, mutta ei ole valmis kohtaamaan San Josea tiistaina."
   }
 ]
