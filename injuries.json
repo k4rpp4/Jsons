@@ -1,9 +1,18 @@
 [
   {
+    "teamName": "Buffalo Sabres",
+    "expectedReturn": "7.12.2023",
+    "playerName": "Rasmus Dahlin",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Alavartalo",
+    "reportedDate": "6.12.2023",
+    "report": "Dahlin taistelee alavartalon vamman ja on kyseenalainen torstain kilpailu vs. Boston seurauksena, mukaan Lance Lysowski Buffalo News."
+  },
+  {
     "teamName": "Colorado Avalanche",
     "expectedReturn": "7.12.2023",
     "playerName": "Cale Makar",
-    "injuryStatus": "OUT",
+    "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Alavartalo",
     "reportedDate": "5.12.2023",
     "report": "Makar (alavartalo) pidetään epävarma tiistain matchup vastaan Anaheim, mukaan Corey Masisak The Denver Post."
