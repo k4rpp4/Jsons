@@ -1,21 +1,12 @@
 [
   {
     "teamName": "Buffalo Sabres",
-    "expectedReturn": "7.12.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Rasmus Dahlin",
     "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Alavartalo",
-    "reportedDate": "6.12.2023",
-    "report": "Dahlin taistelee alavartalon vamman ja pidetään kyseenalaisena torstain kilpailu vs. Boston, mukaan Lance Lysowski Buffalo News."
-  },
-  {
-    "teamName": "Colorado Avalanche",
-    "expectedReturn": "7.12.2023",
-    "playerName": "Cale Makar",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Alavartalo",
-    "reportedDate": "5.12.2023",
-    "report": "Makar (alavartalo) pidetään epävarma tiistain matchup vastaan Anaheim, mukaan Corey Masisak The Denver Post."
+    "reportedDate": "7.12.2023",
+    "report": "Dahlin (alavartalo) on peli-aika päätös vs. Boston torstaina, per Paul Hamilton of WGR Sports Radio 550."
   },
   {
     "teamName": "New Jersey Devils",
@@ -28,7 +19,7 @@
   },
   {
     "teamName": "New York Islanders",
-    "expectedReturn": "7.12.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Sebastian Aho",
     "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
