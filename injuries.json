@@ -1,9 +1,9 @@
 [
   {
     "teamName": "Buffalo Sabres",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "9.12.2023",
     "playerName": "Rasmus Dahlin",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Alavartalo",
     "reportedDate": "7.12.2023",
     "report": "Dahlin (alavartalo) on peli-aika päätös vs. Boston torstaina, per Paul Hamilton of WGR Sports Radio 550."
@@ -19,7 +19,7 @@
   },
   {
     "teamName": "New York Islanders",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "9.12.2023",
     "playerName": "Sebastian Aho",
     "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
