@@ -1,7 +1,7 @@
 [
   {
     "teamName": "Buffalo Sabres",
-    "expectedReturn": "9.12.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Rasmus Dahlin",
     "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Alavartalo",
@@ -19,7 +19,7 @@
   },
   {
     "teamName": "New York Islanders",
-    "expectedReturn": "9.12.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Sebastian Aho",
     "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
