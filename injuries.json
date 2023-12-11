@@ -1,14 +1,5 @@
 [
   {
-    "teamName": "Dallas Stars",
-    "expectedReturn": "11.12.2023",
-    "playerName": "Roope Hintz",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Sairaus",
-    "reportedDate": "9.12.2023",
-    "report": "Hintz jättää lauantain kilpailun Vegasia vastaan väliin sairauden takia."
-  },
-  {
     "teamName": "New Jersey Devils",
     "expectedReturn": "15.02.2024",
     "playerName": "Dougie Hamilton",
@@ -19,7 +10,7 @@
   },
   {
     "teamName": "New York Islanders",
-    "expectedReturn": "11.12.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Sebastian Aho",
     "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
