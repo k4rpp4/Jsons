@@ -10,7 +10,7 @@
   },
   {
     "teamName": "New York Islanders",
-    "expectedReturn": "13.12.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Sebastian Aho",
     "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
