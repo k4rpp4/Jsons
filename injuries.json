@@ -1,18 +1,18 @@
 [
   {
     "teamName": "Colorado Avalanche",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "19.12.2023",
     "playerName": "Cale Makar",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Alavartalo",
-    "reportedDate": "16.12.2023",
-    "report": "Makar (alavartalo) ei ole kokoonpanolla lauantaina vastaan Winnipeg."
+    "reportedDate": "17.12.2023",
+    "report": "Makar (alavartalo) ei pelaa sunnuntaina vastaan San Jose, Peter Baugh The Athletic raportoi."
   },
   {
     "teamName": "Toronto Maple Leafs",
     "expectedReturn": "19.12.2023",
     "playerName": "Auston Matthews",
-    "injuryStatus": "OUT",
+    "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Sairaus",
     "reportedDate": "16.12.2023",
     "report": "Matthews on myöhään tyhjästä lauantain peli vastaan Pittsburgh koska sairaus, Lance Hornby Toronto Sun raportoi."
