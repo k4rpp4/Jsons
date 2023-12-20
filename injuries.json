@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Winnipeg Jets",
+    "expectedReturn": "20.12.2023",
+    "playerName": "Josh Morrissey",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Kasvot",
+    "reportedDate": "19.12.2023",
+    "report": "Morrissey ei harjoittanut tiistaina otettuaan kiekko kasvoihin vastaan Montrealissa maanantaina, John Lu TSN raportoi."
+  },
+  {
     "teamName": "Colorado Avalanche",
     "expectedReturn": "21.12.2023",
     "playerName": "Cale Makar",
