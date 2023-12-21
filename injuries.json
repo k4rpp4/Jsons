@@ -1,12 +1,12 @@
 [
   {
     "teamName": "Colorado Avalanche",
-    "expectedReturn": "21.12.2023",
+    "expectedReturn": "Unknown",
     "playerName": "Cale Makar",
     "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Alavartalo",
-    "reportedDate": "19.12.2023",
-    "report": "Makar (alavartalo) ei pelaa tiistaina vastaan Chicago, mukaan Avalanche play-by-play kuuluttaja Conor McGahey."
+    "reportedDate": "21.12.2023",
+    "report": "Makar (alavartalo) on peli-aika puhelun vastaan Ottawa torstaina, Marc Moser of Altitude Sports 950 raportoi."
   },
   {
     "teamName": "New Jersey Devils",
