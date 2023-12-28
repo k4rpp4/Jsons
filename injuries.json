@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Buffalo Sabres",
+    "expectedReturn": "30.12.2023",
+    "playerName": "Tage Thompson",
+    "injuryStatus": "OUT",
+    "injuryReason": "Henkilökohtainen",
+    "reportedDate": "27.12.2023",
+    "report": "Thompson (henkilökohtainen) ei pelaa keskiviikkona vastaan Bruins, Lance Lysowski Buffalo News raportoi."
+  },
+  {
     "teamName": "New Jersey Devils",
     "expectedReturn": "15.02.2024",
     "playerName": "Dougie Hamilton",
