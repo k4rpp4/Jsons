@@ -1,14 +1,5 @@
 [
   {
-    "teamName": "Buffalo Sabres",
-    "expectedReturn": "30.12.2023",
-    "playerName": "Tage Thompson",
-    "injuryStatus": "IR-NR",
-    "injuryReason": "Henkilökohtainen",
-    "reportedDate": "28.12.2023",
-    "report": "Sabres laittaa Thompson (henkilökohtainen) ei-roster varauksen torstaina."
-  },
-  {
     "teamName": "New Jersey Devils",
     "expectedReturn": "15.02.2024",
     "playerName": "Dougie Hamilton",
