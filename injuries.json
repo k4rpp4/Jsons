@@ -1,5 +1,23 @@
 [
   {
+    "teamName": "Florida Panthers",
+    "expectedReturn": "6.01.2024",
+    "playerName": "Aleksander Barkov",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Ylävartalo",
+    "reportedDate": "4.01.2024",
+    "report": "Barkov (ylävartalo) ei palaa torstain peli vs. Golden Knights."
+  },
+  {
+    "teamName": "Dallas Stars",
+    "expectedReturn": "6.01.2024",
+    "playerName": "Miro Heiskanen",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Alavartalo",
+    "reportedDate": "4.01.2024",
+    "report": "Heiskanen (alavartalo) on kyseenalainen palata torstain peli vastaan Avalanche."
+  },
+  {
     "teamName": "New Jersey Devils",
     "expectedReturn": "15.02.2024",
     "playerName": "Dougie Hamilton",
