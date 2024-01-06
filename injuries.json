@@ -1,5 +1,23 @@
 [
   {
+    "teamName": "New Jersey Devils",
+    "expectedReturn": "6.01.2024",
+    "playerName": "Jack Hughes",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Ilmoittamaton",
+    "reportedDate": "5.01.2024",
+    "report": "Hughes (ilmoittamaton) lähti aikaisin aikana perjantain voittaa Chicago, Amanda Stein Devils \"virallinen sivusto raportoi."
+  },
+  {
+    "teamName": "Chicago Blackhawks",
+    "expectedReturn": "7.01.2024",
+    "playerName": "Connor Bedard",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Ilmoittamaton",
+    "reportedDate": "5.01.2024",
+    "report": "Bedard (ilmoittamaton) ei palaa perjantain peliin Devilsia vastaan."
+  },
+  {
     "teamName": "Florida Panthers",
     "expectedReturn": "6.01.2024",
     "playerName": "Aleksander Barkov",
