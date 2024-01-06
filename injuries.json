@@ -1,7 +1,7 @@
 [
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "6.01.2024",
+    "expectedReturn": "Unknown",
     "playerName": "Jack Hughes",
     "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Ilmoittamaton",
@@ -19,7 +19,7 @@
   },
   {
     "teamName": "Florida Panthers",
-    "expectedReturn": "6.01.2024",
+    "expectedReturn": "Unknown",
     "playerName": "Aleksander Barkov",
     "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Ylävartalo",
