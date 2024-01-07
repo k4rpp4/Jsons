@@ -1,30 +1,21 @@
 [
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "11.01.2024",
     "playerName": "Jack Hughes",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Ilmoittamaton",
-    "reportedDate": "5.01.2024",
-    "report": "Hughes (ilmoittamaton) lähti aikaisin aikana perjantain voittaa Chicago, Amanda Stein Devils \"virallinen sivusto raportoi."
+    "injuryStatus": "OUT",
+    "injuryReason": "Ylävartalo",
+    "reportedDate": "6.01.2024",
+    "report": "Hughes (ylävartalo) arvioidaan ja näin ollen ei ole aikataulua vielä, mutta hän jää lauantain peli vastaan Vancouver, per Sam Kasan Devils \"virallisella sivustolla."
   },
   {
     "teamName": "Chicago Blackhawks",
-    "expectedReturn": "7.01.2024",
+    "expectedReturn": "16.01.2024",
     "playerName": "Connor Bedard",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Ilmoittamaton",
-    "reportedDate": "5.01.2024",
-    "report": "Bedard (ilmoittamaton) ei palaa perjantain peliin Devilsia vastaan."
-  },
-  {
-    "teamName": "Florida Panthers",
-    "expectedReturn": "Unknown",
-    "playerName": "Aleksander Barkov",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Ylävartalo",
-    "reportedDate": "4.01.2024",
-    "report": "Barkov (ylävartalo) ei palaa torstain peli vs. Golden Knights."
+    "injuryStatus": "IR",
+    "injuryReason": "Leuka",
+    "reportedDate": "6.01.2024",
+    "report": "Bedard (leuka) sijoitettiin loukkaantunut varaukseen lauantaina jälkeen murtuma hänen leukansa perjantain tappio Devils."
   },
   {
     "teamName": "Dallas Stars",
