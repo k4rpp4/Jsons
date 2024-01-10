@@ -1,12 +1,12 @@
 [
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "11.01.2024",
+    "expectedReturn": "17.01.2024",
     "playerName": "Jack Hughes",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "6.01.2024",
-    "report": "Hughes (ylävartalo) arvioidaan ja näin ollen ei ole aikataulua vielä, mutta hän jää lauantain peli vastaan Vancouver, per Sam Kasan Devils \"virallisella sivustolla."
+    "reportedDate": "9.01.2024",
+    "report": "Hughes (ylävartalo) oli merkitty viikosta-viikkoon, vaikka hänen ei odoteta jäävän kuukausia, Amanda Stein Devilsin virallisella sivustolla raportoi tiistaina."
   },
   {
     "teamName": "Chicago Blackhawks",
