@@ -10,12 +10,12 @@
   },
   {
     "teamName": "Chicago Blackhawks",
-    "expectedReturn": "16.01.2024",
+    "expectedReturn": "21.02.2024",
     "playerName": "Connor Bedard",
     "injuryStatus": "IR",
     "injuryReason": "Leuka",
-    "reportedDate": "6.01.2024",
-    "report": "Bedard sai murtuneen leuan perjantaina vastaan Devils ja asetettiin loukkaantunut varaukseen lauantaina."
+    "reportedDate": "10.01.2024",
+    "report": "Blackhawks ilmoitti keskiviikkona, että Bedard joutui leikkaukseen korjata murtunut leuka ja on pois noin 6-8 viikkoa."
   },
   {
     "teamName": "Dallas Stars",
