@@ -4,16 +4,16 @@
     "expectedReturn": "17.01.2024",
     "playerName": "Jack Hughes",
     "injuryStatus": "OUT",
-    "injuryReason": "Upper Body",
+    "injuryReason": "Ylävartalo",
     "reportedDate": "9.01.2024",
-    "report": "Hughes (upper body) was labeled week-to-week, though he is not expected to miss months, Amanda Stein of the Devils' official site reports Tuesday."
+    "report": "Hughes (ylävartalo) oli merkitty viikosta-viikkoon, vaikka hänen ei odoteta jäävän kuukausia, Amanda Stein Devilsin virallisella sivustolla raportoi tiistaina."
   },
   {
     "teamName": "Chicago Blackhawks",
     "expectedReturn": "21.02.2024",
     "playerName": "Connor Bedard",
     "injuryStatus": "IR",
-    "injuryReason": "Jaw",
+    "injuryReason": "Leuka",
     "reportedDate": "10.01.2024",
     "report": "Blackhawks ilmoitti keskiviikkona, että Bedard joutui leikkaukseen korjata murtunut leuka ja on pois noin 6-8 viikkoa."
   },
@@ -22,9 +22,9 @@
     "expectedReturn": "6.02.2024",
     "playerName": "Miro Heiskanen",
     "injuryStatus": "OUT",
-    "injuryReason": "Lower Body",
+    "injuryReason": "Alavartalo",
     "reportedDate": "5.01.2024",
-    "report": "Per Saad Yousuf of The Athletic, Heiskanen (lower body) is considered week-to-week."
+    "report": "The Athleticin Saad Yousufin mukaan Heiskanen (alavartalo) siirtyy viikosta viikkoon."
   },
   {
     "teamName": "New Jersey Devils",
@@ -33,6 +33,6 @@
     "injuryStatus": "IR",
     "injuryReason": "Pectoral",
     "reportedDate": "5.01.2024",
-    "report": "Coach Lindy Ruff said Friday that Hamilton (pectoral) \"is a long ways away,\" Amanda Stein of the Devils' official site reports."
+    "report": "Valmentaja Lindy Ruff sanoi perjantaina, että Hamilton (rintalihas) \"on kaukana\", Amanda Stein Devilsin virallisella sivustolla raportoi."
   }
 ]
