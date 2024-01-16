@@ -12,7 +12,7 @@
     "teamName": "New Jersey Devils",
     "expectedReturn": "17.01.2024",
     "playerName": "Jack Hughes",
-    "injuryStatus": "OUT",
+    "injuryStatus": "DAY-TO-DAY",
     "injuryReason": "Ylävartalo",
     "reportedDate": "9.01.2024",
     "report": "Hughes (ylävartalo) oli merkitty viikosta-viikkoon, vaikka hänen ei odoteta jäävän kuukausia, Amanda Stein Devilsin virallisella sivustolla raportoi tiistaina."
@@ -28,12 +28,12 @@
   },
   {
     "teamName": "Dallas Stars",
-    "expectedReturn": "6.02.2024",
+    "expectedReturn": "19.02.2024",
     "playerName": "Miro Heiskanen",
     "injuryStatus": "OUT",
     "injuryReason": "Alavartalo",
-    "reportedDate": "5.01.2024",
-    "report": "The Athleticin Saad Yousufin mukaan Heiskanen (alavartalo) siirtyy viikosta viikkoon."
+    "reportedDate": "16.01.2024",
+    "report": "Heiskanen (alavartalo) jatkaa luistelua ja matkustaa joukkueen kanssa tulevan neljän pelin road trip, Stars radio isäntä Owen Newkirk raportoi tiistaina."
   },
   {
     "teamName": "New Jersey Devils",
