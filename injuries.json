@@ -1,21 +1,21 @@
 [
   {
     "teamName": "Florida Panthers",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "19.01.2024",
     "playerName": "Aleksander Barkov",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Alavartalo",
-    "reportedDate": "15.01.2024",
-    "report": "Barkov on tekemisissä pienen alavartalon vamman kanssa, per Jameson Olive Panthersin virallisella sivustolla."
+    "reportedDate": "17.01.2024",
+    "report": "Barkov (alavartalo) jää väliin keskiviikon peli Detroitia vastaan."
   },
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "25.01.2024",
     "playerName": "Jack Hughes",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "9.01.2024",
-    "report": "Hughes (ylävartalo) oli merkitty viikosta-viikkoon, vaikka hänen ei odoteta jäävän kuukausia, Amanda Stein Devilsin virallisella sivustolla raportoi tiistaina."
+    "reportedDate": "17.01.2024",
+    "report": "Hughes (ylävartalo) pidetään edelleen viikosta viikkoon, valmentaja Lindy Ruff kertoi Peter Baugh The Athleticille keskiviikkona."
   },
   {
     "teamName": "Chicago Blackhawks",
