@@ -1,12 +1,12 @@
 [
   {
     "teamName": "Florida Panthers",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "22.01.2024",
     "playerName": "Aleksander Barkov",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Alavartalo",
-    "reportedDate": "18.01.2024",
-    "report": "Barkov (alavartalo) on pelin aika puhelun vastaan Minnesota perjantaina, George Richards Florida Hockey Now raportoi."
+    "reportedDate": "19.01.2024",
+    "report": "Barkov (alavartalo) ei ole kokoonpanolla vastaan Minnesota perjantaina, mukaan valmentaja Paul Maurice."
   },
   {
     "teamName": "New Jersey Devils",
