@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Pittsburgh Penguins",
+    "expectedReturn": "20.01.2024",
+    "playerName": "Erik Karlsson",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Sairaus",
+    "reportedDate": "19.01.2024",
+    "report": "Karlsson jäi perjantain harjoitus sairauden vuoksi, Matt Vensel Pittsburgh Post-Gazette raportoi. Hän on sen vuoksi kyseenalainen lauantain pelissä Vegasia vastaan."
+  },
+  {
     "teamName": "Florida Panthers",
     "expectedReturn": "22.01.2024",
     "playerName": "Aleksander Barkov",
