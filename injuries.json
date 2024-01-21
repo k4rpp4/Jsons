@@ -28,12 +28,12 @@
   },
   {
     "teamName": "Florida Panthers",
-    "expectedReturn": "22.01.2024",
+    "expectedReturn": "24.01.2024",
     "playerName": "Aleksander Barkov",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Alavartalo",
-    "reportedDate": "",
-    "report": ""
+    "reportedDate": "21.01.2024",
+    "report": "Barkov (alavartalo) ei pelaa maanantaina vs. Predators, Jameson Olive Panthers \"virallinen sivusto raportoi."
   },
   {
     "teamName": "New Jersey Devils",
