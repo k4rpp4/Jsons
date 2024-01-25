@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Winnipeg Jets",
+    "expectedReturn": "27.01.2024",
+    "playerName": "Josh Morrissey",
+    "injuryStatus": "DAY-TO-DAY",
+    "injuryReason": "Alavartalo",
+    "reportedDate": "24.01.2024",
+    "report": "Morrissey (alavartalo) ei palaa keskiviikon peliin Maple Leafsia vastaan."
+  },
+  {
     "teamName": "Chicago Blackhawks",
     "expectedReturn": "21.02.2024",
     "playerName": "Connor Bedard",
@@ -25,15 +34,6 @@
     "injuryReason": "Alavartalo",
     "reportedDate": "23.01.2024",
     "report": "Valmentaja Pete DeBoer toivoo Heiskanen (alavartalo) pystyy palaamaan toimintaan torstaina vastaan Anaheim tai lauantaina vastaan Capitals, Mike Heika Starsin virallisen sivuston raportoi."
-  },
-  {
-    "teamName": "Florida Panthers",
-    "expectedReturn": "Unknown",
-    "playerName": "Aleksander Barkov",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Alavartalo",
-    "reportedDate": "24.01.2024",
-    "report": "Barkov (alavartalo) on todennäköisesti pelata keskiviikkona, mutta lopullinen määritys tehdään aikana pregame lämmittelyt, valmentaja Paul Maurice kertoi George Richards Florida Hockey Now."
   },
   {
     "teamName": "New Jersey Devils",
