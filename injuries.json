@@ -21,27 +21,18 @@
     "teamName": "New Jersey Devils",
     "expectedReturn": "6.02.2024",
     "playerName": "Jack Hughes",
-    "injuryStatus": "OUT",
+    "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "22.01.2024",
-    "report": "Hughes (ylävartalo) pysyy sivussa kautta All-Star Game, Amanda Stein Devils \"virallinen sivusto raportoi maanantaina."
-  },
-  {
-    "teamName": "Dallas Stars",
-    "expectedReturn": "Unknown",
-    "playerName": "Miro Heiskanen",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Alavartalo",
-    "reportedDate": "23.01.2024",
-    "report": "Valmentaja Pete DeBoer toivoo Heiskanen (alavartalo) pystyy palaamaan toimintaan torstaina vastaan Anaheim tai lauantaina vastaan Capitals, Mike Heika Starsin virallisen sivuston raportoi."
+    "reportedDate": "25.01.2024",
+    "report": "Hughes (ylävartalo) joutui torstaina loukkaantuneiden varaukseen."
   },
   {
     "teamName": "New Jersey Devils",
     "expectedReturn": "21.03.2024",
     "playerName": "Dougie Hamilton",
-    "injuryStatus": "IR",
+    "injuryStatus": "IR-LT",
     "injuryReason": "Pectoral",
-    "reportedDate": "",
-    "report": ""
+    "reportedDate": "25.01.2024",
+    "report": "Hamilton (rintalihas) siirrettiin loukkaantunut varauksen pitkäaikainen loukkaantunut varauksen torstaina, James Nichols New Jersey Hockey Now raportoi."
   }
 ]
