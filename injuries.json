@@ -1,14 +1,5 @@
 [
   {
-    "teamName": "Winnipeg Jets",
-    "expectedReturn": "Unknown",
-    "playerName": "Josh Morrissey",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Alavartalo",
-    "reportedDate": "26.01.2024",
-    "report": "Morrissey (alavartalo) on palannut harjoituksiin perjantaina, Mitchell Clinton Jetsin viralliselta sivustolta."
-  },
-  {
     "teamName": "Chicago Blackhawks",
     "expectedReturn": "21.02.2024",
     "playerName": "Connor Bedard",
