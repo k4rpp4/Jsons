@@ -10,12 +10,12 @@
   },
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "6.02.2024",
+    "expectedReturn": "8.02.2024",
     "playerName": "Jack Hughes",
     "injuryStatus": "IR",
     "injuryReason": "Ylävartalo",
-    "reportedDate": "25.01.2024",
-    "report": "Hughes (ylävartalo) joutui torstaina loukkaantuneiden varaukseen."
+    "reportedDate": "5.02.2024",
+    "report": "Hughes pidetään nyt päivä-to-day hänen ylävartalon vamman ja voisi palata toimintaan myöhemmin tällä viikolla, Amanda Stein Devils \"virallinen sivusto raportoi."
   },
   {
     "teamName": "New Jersey Devils",
@@ -23,7 +23,7 @@
     "playerName": "Dougie Hamilton",
     "injuryStatus": "IR-LT",
     "injuryReason": "Pectoral",
-    "reportedDate": "25.01.2024",
-    "report": "Hamilton (rintalihas) siirrettiin loukkaantunut varauksen pitkäaikainen loukkaantunut varauksen torstaina, James Nichols New Jersey Hockey Now raportoi."
+    "reportedDate": "",
+    "report": ""
   }
 ]
