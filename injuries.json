@@ -10,15 +10,6 @@
   },
   {
     "teamName": "New Jersey Devils",
-    "expectedReturn": "8.02.2024",
-    "playerName": "Jack Hughes",
-    "injuryStatus": "IR",
-    "injuryReason": "Ylävartalo",
-    "reportedDate": "6.02.2024",
-    "report": "Hughes (ylävartalo) on nyt luistelu säännöllisesti pelipaita ja arvioidaan uudelleen ennen torstain kilpailua vastaan Calgary, Amanda Stein Devilsin virallisella sivustolla."
-  },
-  {
-    "teamName": "New Jersey Devils",
     "expectedReturn": "21.03.2024",
     "playerName": "Dougie Hamilton",
     "injuryStatus": "IR-LT",
