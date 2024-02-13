@@ -1,21 +1,12 @@
 [
   {
-    "teamName": "Colorado Avalanche",
-    "expectedReturn": "13.02.2024",
-    "playerName": "Nathan MacKinnon",
-    "injuryStatus": "DAY-TO-DAY",
-    "injuryReason": "Kasvot",
-    "reportedDate": "10.02.2024",
-    "report": "MacKinnon (kasvot) arvioitiin loukkaantumisen hänen leuka jatkunut kolmannessa erässä lauantain peli vs. Panthers, Corey Masisak The Denver Post raportoi."
-  },
-  {
     "teamName": "Chicago Blackhawks",
     "expectedReturn": "21.02.2024",
     "playerName": "Connor Bedard",
     "injuryStatus": "IR",
     "injuryReason": "Leuka",
-    "reportedDate": "",
-    "report": ""
+    "reportedDate": "12.02.2024",
+    "report": "Bedard (leuka) pysyy vielä viikon ajan ei-kosketuspaita päällä ennen kuin hän aloittaa harjoittelun ensi maanantaina, Charlie Roumeliotis NBC Sports Chicagosta kertoo."
   },
   {
     "teamName": "New Jersey Devils",
