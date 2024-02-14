@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Toronto Maple Leafs",
+    "expectedReturn": "15.02.2024",
+    "playerName": "Mitchell Marner",
+    "injuryStatus": "OUT",
+    "injuryReason": "Sairaus",
+    "reportedDate": "13.02.2024",
+    "report": "Marner (sairaus) ei pelaa tiistaina St. Louisia vastaan."
+  },
+  {
     "teamName": "Chicago Blackhawks",
     "expectedReturn": "21.02.2024",
     "playerName": "Connor Bedard",
