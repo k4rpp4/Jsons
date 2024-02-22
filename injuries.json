@@ -1,9 +1,9 @@
 [
   {
     "teamName": "Edmonton Oilers",
-    "expectedReturn": "Unknown",
+    "expectedReturn": "23.02.2024",
     "playerName": "Ryan Nugent-Hopkins",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Sairaus",
     "reportedDate": "21.02.2024",
     "report": "Nugent-Hopkins on kyseenalainen keskiviikon peli vastaan Boston johtuen sairaudesta, Oilers play-by-by-kuuluttaja Jack Michaels raportoi."
