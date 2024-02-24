@@ -1,12 +1,12 @@
 [
   {
     "teamName": "Florida Panthers",
-    "expectedReturn": "24.02.2024",
+    "expectedReturn": "27.02.2024",
     "playerName": "Matthew Tkachuk",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Ilmoittamaton",
-    "reportedDate": "22.02.2024",
-    "report": "Tkachuk ylläpidetään julkistamaton vahinkoa torstain peli vs. Hurricanes ja ei lopeta kilpailua."
+    "reportedDate": "24.02.2024",
+    "report": "Tkachuk (ilmoittamaton) ei pelaa vastaan Washington lauantaina, per Steve Goldstein Bally Sports Florida."
   },
   {
     "teamName": "New Jersey Devils",
