@@ -1,5 +1,14 @@
 [
   {
+    "teamName": "Toronto Maple Leafs",
+    "expectedReturn": "14.03.2024",
+    "playerName": "Mitchell Marner",
+    "injuryStatus": "OUT",
+    "injuryReason": "Alavartalo",
+    "reportedDate": "9.03.2024",
+    "report": "Marner (alavartalo) ei pelaa lauantaina vs. Montreal, David Alter of The Hockey News raportoi."
+  },
+  {
     "teamName": "New Jersey Devils",
     "expectedReturn": "15.04.2024",
     "playerName": "Dougie Hamilton",
