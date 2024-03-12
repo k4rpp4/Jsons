@@ -1,12 +1,12 @@
 [
   {
     "teamName": "Toronto Maple Leafs",
-    "expectedReturn": "14.03.2024",
+    "expectedReturn": "16.03.2024",
     "playerName": "Mitchell Marner",
-    "injuryStatus": "DAY-TO-DAY",
+    "injuryStatus": "OUT",
     "injuryReason": "Alavartalo",
-    "reportedDate": "9.03.2024",
-    "report": "Marner (alavartalo) ei pelaa lauantaina vs. Montreal, David Alter of The Hockey News raportoi."
+    "reportedDate": "11.03.2024",
+    "report": "Marner (alavartalo) ei odoteta pelata torstaina vastaan Philadelphia, per David Alter of The Hockey News."
   },
   {
     "teamName": "New Jersey Devils",
